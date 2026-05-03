@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 About Me<br>REHAN RAZA<br>- 🎓 B.Tech Data Science student at Galgotias University  <br>- 💻 Interested in Web Development & Data Science  <br>- 🧠 Strong in Python, Java, and JavaScript  <br>- 🌱 Currently learning DSA, Machine Learning & Backend (Django)  <br>- 🚀 Focused on building real-world, practical applications  <br>- 🤝 Open to collaboration and learning opportunities  
+### <br>REHAN RAZA<br>-                                                                                                                              🎓 B.Tech Data Science student at Galgotias University  <br>- 💻 Interested in Web Development & Data Science  <br>- 🧠 Strong in Python, Java, and JavaScript  <br>- 🌱 Currently learning DSA, Machine Learning & Backend (Django)  <br>- 🚀 Focused on building real-world, practical applications  <br>- 🤝 Open to collaboration and learning opportunities  
 
 
 ## 🌐 Socials:
