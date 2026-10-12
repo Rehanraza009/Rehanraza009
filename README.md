@@ -14,7 +14,8 @@ Hi, I'm **Rehan Raza**, a B.Tech Computer Science & Engineering (Data Science) s
 
 🤝 **Open to:** Internships, collaborative projects, open-source contributions, and opportunities to learn and grow with other developers.
 
-I believe in continuous learning, hands-on practice, and turning ideas into useful applications.
+ I believe in continuous learning, hands-on practice, and turning ideas into useful applications.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/re_haannnn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rehan-raza-b45bb630) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:099rehan@gmail.com) 
 
