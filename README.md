@@ -1,7 +1,20 @@
-# About Me:
-### <br>**REHAN RAZA**<br>-                                                                                                                              🎓 B.Tech Data Science student at Galgotias University  <br>- 💻 Interested in Data Science & Web Development <br>- 🧠 Strong in Python, Java, and JavaScript  <br>- 🌱 Currently learning DSA, Machine Learning, AI & Backend (Django)  <br>- 🚀 Focused on building real-world, practical applications  <br>- 🤝 Open to collaboration and learning opportunities.  
+# About Me
 
+Hi, I'm **Rehan Raza**, a B.Tech Computer Science & Engineering (Data Science) student at Galgotias University, graduating in 2027.
 
+💼 **Currently:** Data Analytics Intern at VisioTechon Services, gaining practical experience in Excel-based data handling and website analysis.
+
+💻 **Technical Skills:** Python, Java, JavaScript, SQL, Django, HTML, CSS, and Git/GitHub.
+
+🧠 **Areas of Interest:** Data Science, Machine Learning, Artificial Intelligence, Web Development, and Backend Engineering.
+
+🌱 **Currently Learning:** Data Structures & Algorithms, Machine Learning, AI, and backend development.
+
+🚀 **My Goal:** To build practical, scalable applications and data-driven solutions that solve real-world problems.
+
+🤝 **Open to:** Internships, collaborative projects, open-source contributions, and opportunities to learn and grow with other developers.
+
+I believe in continuous learning, hands-on practice, and turning ideas into useful applications.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/re_haannnn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rehan-raza-b45bb630) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:099rehan@gmail.com) 
 
