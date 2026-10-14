@@ -6,7 +6,7 @@ Hi, I'm **Rehan Raza**, a B.Tech Computer Science & Engineering (Data Science) s
 
 💻 **Technical Skills:** Python, Java, JavaScript, SQL, Django, HTML, CSS, and Git/GitHub.
 
-🧠 **Areas of Interest:** Data Science, Machine Learning, Artificial Intelligence, Web Development, and Backend Engineering.
+🧠 **Areas of Interest:** Data Science, Machine Learning, Artificial Intelligence, Web Development, Software Engineering, and Backend Engineering.
 
 🌱 **Currently Learning:** Data Structures & Algorithms, Machine Learning, AI, and backend development.
 
