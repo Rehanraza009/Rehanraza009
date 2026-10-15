@@ -4,7 +4,7 @@ Hi, I'm **Rehan Raza**, a B.Tech Computer Science & Engineering (Data Science) s
 
 💼 **Currently:** Data Analytics Intern at VisioTechon Services, gaining practical experience in Excel-based data handling and website analysis.
 
-💻 **Technical Skills:** Python, Java, JavaScript, SQL, Django, HTML, CSS, and Git/GitHub.
+💻 **Technical Skills:** Python, Java, JavaScript, SQL, PostgreSQL, Django, HTML, CSS, and Git/GitHub.
 
 🧠 **Areas of Interest:** Data Science, Machine Learning, Artificial Intelligence, Web Development, Software Engineering, and Backend Engineering.
 
