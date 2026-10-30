@@ -33,25 +33,20 @@
 
 ## 01 / About Me
 
-I’m **Rehan Raza**, a **B.Tech Computer Science and Engineering student specializing in Data Science** at **Galgotias University**, with an expected graduation year of **2027**.
+Hello, I'm **Rehan Raza**, a **B.Tech Computer Science and Engineering student specializing in Data Science** at **Galgotias University**, graduating in **2027**.
 
-My interests include **Data Analytics, Data Science, Machine Learning, Artificial Intelligence, and Software Development**. I use **Python, SQL, Java, and modern development technologies** to explore data, build applications, develop APIs, and solve practical technical problems.
+I am interested in **Data Analytics, Data Science, Machine Learning, Artificial Intelligence, and Software Development**. I work with Python, SQL, Java, and modern development technologies to analyse data, develop applications and APIs, and solve practical technical problems.
 
-I aim to combine analytical thinking with software engineering fundamentals to create solutions that are useful, understandable, and reliable.
+My goal is to combine analytical thinking with strong software engineering fundamentals to build reliable, user-focused solutions.
 
-<br />
+### Profile Snapshot
 
-<div align="center">
-  <img src="https://img.shields.io/badge/DEGREE-B.Tech%20CSE%20(Data%20Science)-0F766E?style=flat-square" alt="B.Tech CSE Data Science" />
-  <img src="https://img.shields.io/badge/GRADUATION-2027-2563EB?style=flat-square" alt="Expected graduation 2027" />
-</div>
-
-<br />
-
-**Education** — Galgotias University · B.Tech, Computer Science and Engineering (Data Science) 
-**Expected Graduation** — 2027 
-**Experience** — Data Analytics Intern, VisioTechon Services · SDE Intern, Bluestock Fintech  
-**Career Interests** — Data Analyst · Data Scientist · AI/ML Engineer · Software Developer
+- 🎓 **Education:** B.Tech, Computer Science and Engineering (Data Science) — Galgotias University
+- 🎯 **Expected Graduation:** 2027
+- 📊 **Latest Reported CGPA:** 8.3
+- 💼 **Current Experience:** Data Analytics Intern — VisioTechon Services
+- 🧑‍💻 **Previous Experience:** Software Development Engineer Intern — Bluestock Fintech
+- 🚀 **Career Interests:** Data Analyst · Data Scientist · AI/ML Engineer · Software Developer
 
 <br />
 
