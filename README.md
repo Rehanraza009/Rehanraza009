@@ -14,12 +14,21 @@
 <br />
 
 <div align="center">
-  <a href="#about">ABOUT</a> &nbsp; • &nbsp;
-  <a href="#highlights">HIGHLIGHTS</a> &nbsp; • &nbsp;
-  <a href="#projects">PROJECTS</a> &nbsp; • &nbsp;
-  <a href="#experience">EXPERIENCE</a> &nbsp; • &nbsp;
-  <a href="#skills">SKILLS</a> &nbsp; • &nbsp;
-  <a href="#certifications">CERTIFICATIONS</a>
+
+  <a href="#about"><img src="https://img.shields.io/badge/01-ABOUT-0F766E?style=for-the-badge&labelColor=101827" alt="About" /></a>
+  &nbsp;
+  <a href="#highlights"><img src="https://img.shields.io/badge/02-HIGHLIGHTS-2563EB?style=for-the-badge&labelColor=101827" alt="Highlights" /></a>
+  &nbsp;
+  <a href="#projects"><img src="https://img.shields.io/badge/03-PROJECTS-7C3AED?style=for-the-badge&labelColor=101827" alt="Projects" /></a>
+
+  <br /><br />
+
+  <a href="#experience"><img src="https://img.shields.io/badge/04-EXPERIENCE-0F766E?style=for-the-badge&labelColor=101827" alt="Experience" /></a>
+  &nbsp;
+  <a href="#skills"><img src="https://img.shields.io/badge/05-SKILLS-2563EB?style=for-the-badge&labelColor=101827" alt="Skills" /></a>
+  &nbsp;
+  <a href="#certifications"><img src="https://img.shields.io/badge/06-CERTIFICATIONS-7C3AED?style=for-the-badge&labelColor=101827" alt="Certifications" /></a>
+
 </div>
 
 <br />
