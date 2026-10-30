@@ -44,13 +44,12 @@ I aim to combine analytical thinking with software engineering fundamentals to c
 <div align="center">
   <img src="https://img.shields.io/badge/DEGREE-B.Tech%20CSE%20(Data%20Science)-0F766E?style=flat-square" alt="B.Tech CSE Data Science" />
   <img src="https://img.shields.io/badge/GRADUATION-2027-2563EB?style=flat-square" alt="Expected graduation 2027" />
-  <img src="https://img.shields.io/badge/CGPA-8.3-7C3AED?style=flat-square" alt="Latest reported CGPA 8.3" />
 </div>
 
 <br />
 
 **Education** — Galgotias University · B.Tech, Computer Science and Engineering (Data Science)  
-**Expected Graduation** — 2027 · **Latest Reported CGPA** — 8.3  
+**Expected Graduation** — 2027 
 **Experience** — Data Analytics Intern, VisioTechon Services · SDE Intern, Bluestock Fintech  
 **Career Interests** — Data Analyst · Data Scientist · AI/ML Engineer · Software Developer
 
