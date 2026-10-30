@@ -30,9 +30,9 @@
 
 ## 01 / About Me
 
-I'm **Rehan Raza**, a Computer Science and Engineering undergraduate specializing in **Data Science** at **Galgotias University**.
+I'm **Rehan Raza**, a **B.Tech Computer Science and Engineering (Data Science)** student at **Galgotias University**, graduating in **2027**. My technical interests include **data analytics, data science, machine learning, artificial intelligence, and software development**.
 
-I work across **data analytics, machine learning, and software development**. I enjoy understanding a problem, exploring the data behind it, building practical technical solutions, and presenting the result through clear, usable applications.
+I use **Python, SQL, Java, and modern web technologies** to analyse data, develop backend services, and build user-focused applications. I am interested in applying analytical thinking and engineering fundamentals to practical business and technology problems.
 
 <div align="center">
   <img src="https://img.shields.io/badge/DEGREE-B.Tech%20CSE%20(Data%20Science)-0F766E?style=flat-square" alt="Degree" />
@@ -43,9 +43,9 @@ I work across **data analytics, machine learning, and software development**. I 
 - 🎓 **Education:** B.Tech in CSE (Data Science), Galgotias University
 - 📅 **Expected graduation:** 2027
 - 📊 **Latest reported CGPA:** 8.3
-- 💼 **Current role:** Data Analytics Intern at VisioTechon Services (Oct–Dec 2026)
-- 🧑‍💻 **Previous role:** SDE Intern at Bluestock Fintech (Jul–Sep 2025)
-- 🎯 **Interests:** Data Analytics, Data Science, AI/ML, and Software Engineering
+- 💼 **Experience:** Data Analytics Intern, VisioTechon Services (Oct–Dec 2026)
+- 🧑‍💻 **Previous experience:** Software Development Engineer Intern, Bluestock Fintech (Jul–Sep 2025)
+- 🎯 **Target roles:** Data Analyst, Data Scientist, AI/ML Engineer, and Software Developer
 
 <br />
 
@@ -75,23 +75,23 @@ I work across **data analytics, machine learning, and software development**. I 
 
 ## 03 / Featured Projects
 
-A selection of projects across AI, data, and software development. Each project focuses on a practical problem and a clear technical approach.
+A selection of academic, hackathon, and development projects demonstrating experience with **Python, machine learning, computer vision, NLP, databases, APIs, and application development**.
 
 <br />
 
 ### 🛰️ SatQuery-AI
 **AI-Powered Multimodal Satellite Imagery Intelligence**
 
-Explore satellite imagery using natural-language questions, detect changes between images captured at different times, and analyse optical and SAR data with specialist deep-learning workflows.
+An AI-powered remote-sensing platform designed to let users query satellite imagery in natural language. The system brings together image understanding, multi-temporal comparison, and analysis workflows for optical and Synthetic Aperture Radar (SAR) imagery.
 
 **Problem & value**  
-Makes complex satellite-image analysis more accessible through natural-language interaction and focused analysis tools.
+Provides a natural-language interface for exploring satellite data and supports analysis tasks that traditionally require specialised remote-sensing workflows.
 
 **Core capabilities**
-- Image question answering
-- Bi-temporal change detection
-- Optical + SAR fusion
-- Temporal change explanations
+- Natural-language visual question answering
+- Bi-temporal satellite image change detection
+- Optical and SAR data handling / fusion workflows
+- Model and task routing for remote-sensing analysis
 
 **Technology**  
 <code>Next.js</code> <code>FastAPI</code> <code>PyTorch</code> <code>Hugging Face Transformers</code>
@@ -107,16 +107,16 @@ Makes complex satellite-image analysis more accessible through natural-language 
 ### 🕵️ CrimIntel
 **AI-Powered Criminal Network Analysis System · SIH26189**
 
-An investigation-support platform that transforms fragmented records into explainable entities, relationships, and a time-aware network view. Each surfaced relationship is designed to retain its evidence source and support human review.
+An AI-assisted investigation analysis system concept for extracting entities and relationships from unstructured reports and structured records. It organises connections in a temporal knowledge graph and keeps evidence provenance available to support analyst review.
 
 **Problem & value**  
-Helps investigators explore links across otherwise disconnected investigation records.
+Supports investigation teams in reviewing potential connections across fragmented records while keeping the source evidence visible for verification.
 
 **Core capabilities**
-- Entity extraction and resolution
-- Temporal knowledge graph
-- Relationship analysis
-- Evidence provenance
+- Named-entity extraction and entity resolution
+- Relationship and event extraction
+- Temporal knowledge-graph construction
+- Network analysis and evidence provenance
 
 **Technology**  
 <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>PostgreSQL</code> <code>NLP</code>
@@ -132,16 +132,16 @@ Helps investigators explore links across otherwise disconnected investigation re
 ### 🚗 RideMesh
 **AI-Powered Dynamic Carpooling & Real-Time Mobility**
 
-A mobility application concept that helps people travelling in similar directions discover compatible rides, optimise pickup points, and coordinate journeys.
+A mobile mobility application concept focused on matching people travelling along compatible routes. It considers route overlap, departure timing, detours, and pickup convenience to support more relevant carpool suggestions.
 
 **Problem & value**  
-Reduces the friction of finding suitable carpool matches for everyday travel.
+Improves the ride-discovery process by considering practical route and journey constraints rather than relying only on destination similarity.
 
 **Core capabilities**
-- Route compatibility
+- Route and destination compatibility
 - Departure-time matching
-- Detour consideration
-- Pickup optimisation and ride tracking
+- Detour and pickup-point considerations
+- Ride coordination and tracking workflows
 
 **Technology**  
 <code>React</code> <code>Vite</code> <code>Capacitor</code> <code>Firebase</code> <code>Google Maps</code>
@@ -155,17 +155,17 @@ Reduces the friction of finding suitable carpool matches for everyday travel.
 ### 🌾 KisanSetu
 **Digital Marketplace Connecting Farmers & Customers**
 
-An Android application designed to connect farmers, customers, and delivery partners directly, while giving farmers digital tools to manage products and access useful agricultural insights.
+An Android application concept that connects farmers, customers, and delivery partners through a digital produce marketplace. It is designed to help farmers publish product listings and make agricultural information more accessible.
 
 **Problem & value**  
-Makes it easier for farmers to list produce and reach customers without relying entirely on intermediaries.
+Creates a direct digital channel for farmers to list produce and connect with customers, with supporting tools for agricultural information.
 
 **Core capabilities**
-- Farmer product listings
-- Customer ordering
+- Farmer product and price listings
+- Customer browsing and ordering workflow
 - Delivery-partner workflow
-- Crop-price comparison
-- Plant-disease analysis
+- Crop-price information
+- Plant-disease analysis feature
 
 **Technology**  
 <code>Java</code> <code>Android</code> <code>Firebase Authentication</code> <code>Realtime Database</code> <code>Firebase Storage</code> <code>OpenStreetMap</code>
@@ -215,7 +215,7 @@ Makes it easier for farmers to list produce and reach customers without relying 
 
 ## 04 / Professional Experience
 
-Professional experience across data analytics and backend software development.
+Industry experience spanning **data analytics** and **backend software development**, with hands-on exposure to data workflows, REST APIs, and relational databases.
 
 <br />
 
@@ -224,9 +224,9 @@ Professional experience across data analytics and backend software development.
 ### Data Analytics Intern · VisioTechon Services
 <sub>October 2026 – December 2026</sub>
 
-- Working on practical **data analysis and business-oriented analytics** tasks.
-- Building hands-on experience in **data handling, analysis, and communicating findings**.
-- Strengthening the connection between analytical work and real-world business needs.
+- Supporting **data analysis and business-oriented reporting** activities.
+- Working with data handling, organisation, and analysis to help communicate useful findings.
+- Developing practical experience in translating business questions into structured analytical tasks.
 
 <br />
 
@@ -235,9 +235,9 @@ Professional experience across data analytics and backend software development.
 ### Software Development Engineer (SDE) Intern · Bluestock Fintech
 <sub>July 2025 – September 2025</sub>
 
-- Contributed to an **IPO web application and REST API** using **Django** and **PostgreSQL**.
-- Worked on backend development, API workflows, and database integration.
-- Collaborated on improvements focused on API performance and user experience.
+- Developed and contributed to backend components for an **IPO web application and REST API** using **Python, Django, and PostgreSQL**.
+- Worked on API endpoints, server-side application logic, and relational database integration.
+- Supported performance and usability improvements across application workflows.
 
 **Selected project outcomes**
 
@@ -257,16 +257,16 @@ Professional experience across data analytics and backend software development.
 ## 05 / Technical Skills
 
 <div align="center">
-  <h3>Programming Languages</h3>
+  <h3>Programming Languages · Python, Java, C, C++, JavaScript, TypeScript</h3>
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts" alt="Python, Java, C, C++, JavaScript, TypeScript" />
   <br /><br />
-  <h3>Data Science & Machine Learning</h3>
+  <h3>Data Analytics, Data Science & Machine Learning</h3>
   <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch" alt="NumPy, Pandas, scikit-learn, TensorFlow, PyTorch" />
   <br /><br />
-  <h3>Web & Backend Development</h3>
+  <h3>Web Development, Backend & REST APIs</h3>
   <img src="https://skillicons.dev/icons?i=django,react,nextjs,html,css,bootstrap" alt="Django, React, Next.js, HTML, CSS, Bootstrap" />
   <br /><br />
-  <h3>Databases, Cloud & Tools</h3>
+  <h3>SQL & NoSQL Databases, Cloud & Developer Tools</h3>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,aws,git,github,postman,figma" alt="MySQL, PostgreSQL, Firebase, Supabase, AWS, Git, GitHub, Postman, Figma" />
 </div>
 
@@ -286,7 +286,7 @@ I maintain a dedicated repository for my certifications and learning milestones.
   </a>
 </div>
 
-My learning journey includes **AWS and cloud fundamentals, data engineering, machine learning, database design, Java/DSA, and design thinking**.
+My learning areas include **AWS cloud fundamentals, data engineering, machine learning, database design, Java and data structures & algorithms, and design thinking**.
 
 <br />
 
