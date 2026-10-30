@@ -26,7 +26,7 @@ I work across **data analytics, machine learning, and software development**. I 
 ### At a glance
 
 - 🎓 **Education:** B.Tech in CSE (Data Science), Galgotias University
-- 📅 **Graduation:** 2028
+- 📅 **Expected graduation:** 2027
 - 📊 **Latest reported CGPA:** 8.3
 - 💼 **Current role:** Data Analytics Intern at VisioTechon Services (Oct–Dec 2026)
 - 🧑‍💻 **Previous role:** SDE Intern at Bluestock Fintech (Jul–Sep 2025)
@@ -96,20 +96,42 @@ Connects farmers, customers, and delivery partners through product listings, mar
   - **[Machine Learning Stock Analysis ↗](https://github.com/Rehanraza009/machine-learning-stock-analysis)** — Machine-learning exploration for stock-related data.
 </details>
 
-## Experience
+## 💼 Experience
 
-### Data Analytics Intern · VisioTechon Services
-<sub>October 2026 – December 2026</sub>
+A snapshot of my professional experience, responsibilities, and project outcomes.
 
-- Working on practical data analysis and business-oriented analytics tasks.
-- Developing skills in data handling, analysis, and communicating findings.
+---
 
-### SDE Intern · Bluestock Fintech
-<sub>July 2025 – September 2025</sub>
+### <img src="https://img.shields.io/badge/CURRENT-Data%20Analytics%20Intern-0F766E?style=flat-square" alt="Current role" />
 
-- Contributed to an IPO web application and REST API using **Django** and **PostgreSQL**.
-- Worked on backend workflows, API development, and database integration.
-- Reported internship project outcomes included a **35% improvement in API response time** and a **40% increase in user engagement**.
+### **Data Analytics Intern** · VisioTechon Services
+<sub>📅 October 2026 – December 2026</sub>
+
+- Working on practical **data analysis and business-oriented analytics** tasks.
+- Building hands-on experience in **data handling, analysis, and communicating findings**.
+- Strengthening the connection between analytical work and real-world business needs.
+
+---
+
+### <img src="https://img.shields.io/badge/COMPLETED-SDE%20Intern-2563EB?style=flat-square" alt="Completed role" />
+
+### **Software Development Engineer (SDE) Intern** · Bluestock Fintech
+<sub>📅 July 2025 – September 2025</sub>
+
+- Contributed to an **IPO web application and REST API** using **Django** and **PostgreSQL**.
+- Worked on backend development, API workflows, and database integration.
+- Collaborated on improvements focused on API performance and user experience.
+
+**Selected project outcomes**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/35%25-Faster%20API%20Response%20Time-0F766E?style=for-the-badge" alt="35 percent faster API response time" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/40%25-Higher%20User%20Engagement-2563EB?style=for-the-badge" alt="40 percent higher user engagement" />
+</div>
+<sub>Reported outcomes from the internship project.</sub>
+
+---
 
 ## Technical Skills
 
