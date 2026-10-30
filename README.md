@@ -1,166 +1,177 @@
-<!--
-  GitHub Profile README
-  Keep this page accurate, accessible, and easy to scan.
--->
+<!-- Profile README | Rehan Raza -->
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=190&section=header&text=REHAN%20RAZA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Software%20Development&descAlignY=60&descSize=17" alt="Rehan Raza profile banner" />
+</div>
 
 <div align="center">
 
-# Hi, I'm Rehan Raza 👋
+### Building practical software. Turning data into useful insights.
 
-### Computer Science & Engineering (Data Science) Student | Developer | AI & Data Enthusiast
+<a href="https://rehanraza009.github.io/portfolios/#hero"><img src="https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/rehan-raza-b45bb630"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:099rehan@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/Rehanraza009"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-<p>
-  <a href="https://rehanraza009.github.io/portfolios/#hero"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/rehan-raza-b45bb630"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:099rehan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/Rehanraza009"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Rehanraza009&label=Profile%20Views&color=2563eb&style=flat" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=Rehanraza009&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm **Rehan Raza**, a B.Tech Computer Science and Engineering student specializing in **Data Science** at **Galgotias University** (2023–2027).
+I'm **Rehan Raza**, a Computer Science and Engineering undergraduate specializing in **Data Science** at **Galgotias University**.
 
-I enjoy building practical software, exploring data-driven problem solving, and applying AI/ML concepts to real-world use cases. My experience spans Python development, backend APIs, data analysis, machine learning, databases, and web application development.
+I work at the intersection of **data, AI, and software engineering**—from exploring datasets and building ML workflows to developing APIs and full-stack applications. I enjoy taking a problem from its requirements through implementation, testing, and documentation.
 
-- 🎓 **Education:** B.Tech, CSE (Data Science), Galgotias University
+- 🎓 **Education:** B.Tech, CSE (Data Science) · Galgotias University · 2024–2028
 - 📊 **Latest reported CGPA:** 8.3
-- 💼 **Current experience:** Data Analytics Intern at VisioTechon Services (Oct–Dec 2026)
-- 🧩 **Previous experience:** SDE Intern at Bluestock Fintech; Frontend Development Intern at CodeAlpha
-- 🔭 **Current interests:** Data Analytics, Machine Learning, Generative AI, backend engineering, and cloud technologies
-- 🌱 **Learning focus:** Data Structures & Algorithms, applied ML, AI systems, and building reliable applications
-- 🤝 **Open to:** Relevant internships, entry-level opportunities, collaborative projects, and open-source contributions
+- 💼 **Current role:** Data Analytics Intern · VisioTechon Services
+- 🧑‍💻 **Previous role:** SDE Intern · Bluestock Fintech
+- 🎯 **Career interests:** Data Analyst, Data Scientist, AI/ML Engineer, and Software Developer
+- 🌱 **Currently strengthening:** DSA, applied machine learning, analytics, and production-ready application development
+- 🤝 **Open to:** Graduate opportunities, internships, and meaningful technical collaborations
 
-My approach is simple: learn the fundamentals, build useful projects, document the work, and keep improving.
+## 💡 What I Bring
 
-## 🛠️ Technical Skills
+| Area | What I work with |
+|---|---|
+| **Data & Analytics** | Data cleaning, exploratory data analysis, visualization, SQL, Power BI |
+| **Machine Learning** | Supervised and unsupervised learning, model evaluation, computer vision fundamentals |
+| **Software Development** | Python, Java, REST APIs, Django, React, TypeScript |
+| **Databases & Cloud** | MySQL, PostgreSQL, Firebase, Supabase, AWS fundamentals |
+| **Engineering Workflow** | Git/GitHub, Postman, debugging, documentation, responsive UI development |
 
-### Programming
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-</p>
+## 🧰 Technology Stack
 
-### Data Science, Analytics & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-</p>
+<div align="center">
 
-### Web & Backend Development
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square" alt="REST APIs">
-</p>
+**Languages**
 
-### Databases, Cloud & Developer Tools
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop">
-  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Hive">
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts" alt="Python, Java, C, C++, JavaScript and TypeScript" />
 
-## 🚀 Featured Projects
+**Data Science & AI**
 
-A selection of projects across AI, data, backend systems, and application development.
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch" alt="NumPy, Pandas, scikit-learn, TensorFlow and PyTorch" />
 
-| Project | Overview | Technologies |
-|---|---|---|
-| [**CrimIntel**](https://github.com/Rehanraza009/CrimIntel) | AI-powered criminal network analysis concept focused on extracting entities from investigation data, connecting relationships through a temporal knowledge graph, and supporting evidence-aware investigation workflows. | Python, NLP, Knowledge Graphs, Supabase |
-| [**SatQuery-AI**](https://github.com/Rehanraza009/SatQuery-AI) | Remote-sensing analysis platform designed to let users ask natural-language questions about satellite imagery and route tasks to suitable vision and analysis components. | AI/ML, Computer Vision, React, TypeScript, Firebase |
-| [**KisanSetu**](https://github.com/Rehanraza009/KisanSetu) | Farmer-focused digital platform concept connecting farmers with customers and supporting product listings, market access, and accessible voice interactions. | Android, Firebase |
-| [**RideMesh**](https://github.com/Rehanraza009/RideMesh) | Application project built with a modern web-to-mobile development workflow. | React, TypeScript, Vite, Capacitor |
-| [**TestHub**](https://github.com/Rehanraza009/TestHub) | Online examination system project for organizing and delivering assessment workflows. | Web Development |
-| [**IPO Web App**](https://github.com/Rehanraza009/ipo-web-app-Final) | IPO-focused web application developed during my Bluestock Fintech internship, with backend APIs and database integration. | Django, Python, PostgreSQL |
-| [**JARVIS**](https://github.com/Rehanraza009/JARVIS) | Desktop voice-assistant project exploring voice interaction and computer task automation. | Python |
+**Web & Backend**
+
+<img src="https://skillicons.dev/icons?i=django,react,nextjs,html,css,bootstrap" alt="Django, React, Next.js, HTML, CSS and Bootstrap" />
+
+**Databases, Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,aws,git,github,postman,figma" alt="MySQL, PostgreSQL, Firebase, Supabase, AWS, Git, GitHub, Postman and Figma" />
+
+</div>
+
+## 🚀 Selected Projects
+
+I focus on projects that solve a defined problem and demonstrate end-to-end implementation.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛰️ <a href="https://github.com/Rehanraza009/SatQuery-AI">SatQuery-AI</a></h3>
+      <p><strong>Multimodal satellite imagery intelligence</strong></p>
+      <p>Natural-language satellite image analysis, bi-temporal change detection, and optical–SAR data fusion using dedicated vision models.</p>
+      <p><sub>Next.js · FastAPI · PyTorch · Hugging Face</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🕵️ <a href="https://github.com/Rehanraza009/CrimIntel">CrimIntel</a></h3>
+      <p><strong>Evidence-aware criminal network analysis</strong></p>
+      <p>Transforms investigation records into explainable relationships and a temporal knowledge graph, with evidence provenance and human-in-the-loop review.</p>
+      <p><sub>Next.js · TypeScript · Supabase · NLP · Knowledge Graphs</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌾 <a href="https://github.com/Rehanraza009/KisanSetu">KisanSetu</a></h3>
+      <p><strong>Farmer-to-customer digital marketplace</strong></p>
+      <p>Android application concept connecting farmers, customers, and delivery partners, with product listings, market-price insights, and plant-disease analysis.</p>
+      <p><sub>Java · Android · Firebase · AI/ML</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/Rehanraza009/machine-learning-stock-analysis">Machine Learning Stock Analysis</a></h3>
+      <p><strong>Data-driven stock analysis</strong></p>
+      <p>Explores machine-learning techniques for analysing stock-related data and extracting useful patterns.</p>
+      <p><sub>Python · Machine Learning · Data Analysis</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📝 <a href="https://github.com/Rehanraza009/TestHub">TestHub</a></h3>
+      <p><strong>Online examination platform</strong></p>
+      <p>Responsive assessment platform with separate admin and student workflows, exam management, authentication, and result views.</p>
+      <p><sub>HTML · CSS · JavaScript · Firebase</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/Rehanraza009/ipo-web-app-Final">IPO Web Application</a></h3>
+      <p><strong>Fintech web application</strong></p>
+      <p>IPO-focused application and REST API work completed during my SDE internship, including backend and database integration.</p>
+      <p><sub>Python · Django · PostgreSQL · REST API</sub></p>
+    </td>
+  </tr>
+</table>
+
+<sub>More projects: <a href="https://github.com/Rehanraza009/JARVIS">JARVIS Desktop Assistant</a> · <a href="https://github.com/Rehanraza009/RideMesh">RideMesh</a> · <a href="https://github.com/Rehanraza009">Browse all repositories</a></sub>
 
 ## 💼 Experience
 
-### Data Analytics Intern — VisioTechon Services
+### Data Analytics Intern · VisioTechon Services
 **October 2026 – December 2026**
-- Working on data analysis tasks and practical business-oriented analytics.
-- Building experience with data handling, analysis, and communicating findings.
+- Working on practical data analysis and business-oriented analytics tasks.
+- Building experience in data handling, analysis, and communicating findings.
 
-### SDE Intern — Bluestock Fintech
+### SDE Intern · Bluestock Fintech
 **July 2025 – September 2025**
-- Contributed to an IPO web application and REST API using Django and PostgreSQL.
-- Worked on backend development, API workflows, and database integration.
-- Reported project outcomes included a **35% improvement in API response time** and **40% increase in user engagement**.
+- Contributed to an IPO web application and REST API using **Django** and **PostgreSQL**.
+- Worked on backend workflows, API development, and database integration.
+- Project outcomes reported during the internship included **35% faster API response time** and **40% higher user engagement**.
 
-### Frontend Development Intern — CodeAlpha
-**July 2025 – Present (as previously listed)**
-- Worked on frontend projects including a portfolio website and image gallery application.
-- Practised responsive UI development and frontend implementation.
+## 🏆 Achievements & Recognition
 
-## 🏅 Achievements
+- **Smart India Hackathon 2026:** Team SatVision advanced to the **Top 51 teams from 150 teams** for the grand-finale stage.
+- **WIE-HackEarth 2025 Hybrid Hackathon:** Secured a **Top 10** position.
+- **HackerRank Orchestrate · October 2026:** Built an evidence-based deletion-audit workflow for the Ghost Data challenge, with structured CSV output and validation.
 
-- **Smart India Hackathon 2026:** Team SatVision was selected among the **top 51 teams from 150 teams** for the grand-finale stage.
-- **WIE-HackEarth 2025 Hybrid Hackathon:** Achieved a **Top 10** position.
-- **HackerRank Orchestrate – October 2026:** Worked on the Ghost Data challenge, developing an evidence-based deletion-audit workflow and preparing structured CSV output.
+## 📜 Certifications & Continuous Learning
 
-## 📜 Certifications
-
-I maintain a separate repository for my certificates, with the goal of making each credential easy to explore.
-
-➡️ **[Explore My Certifications](https://github.com/Rehanraza009/My-Certification)**
-
-Selected learning areas include:
-- AWS Cloud and foundational data engineering
-- Machine Learning and AI
-- Database design
-- Data Structures and Algorithms with Java
-- Design Thinking
-
-See the certification repository for certificate files, issuing organizations, and available verification details.
-
-## 📈 GitHub Overview
+I maintain a dedicated repository to organize my technical certifications and learning milestones.
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rehanraza009&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" alt="Rehan's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehanraza009&layout=compact&hide_border=true&theme=transparent" alt="Most used languages">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Rehanraza009&hide_border=true&theme=transparent" alt="GitHub contribution streak">
+
+<a href="https://github.com/Rehanraza009/My-Certification">
+  <img src="https://img.shields.io/badge/VIEW%20CERTIFICATIONS-My--Certification-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View certifications" />
+</a>
+
 </div>
 
-## 🤝 Let's Connect
+Focus areas include **AWS and cloud fundamentals, data engineering, machine learning, database design, Java/DSA, and design thinking**.
 
-I'm interested in connecting with developers, data professionals, mentors, and teams working on meaningful technology.
+## 📊 GitHub Activity
 
-<p>
-  <a href="https://www.linkedin.com/in/rehan-raza-b45bb630"><img src="https://img.shields.io/badge/LinkedIn-Rehan%20Raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:099rehan@gmail.com"><img src="https://img.shields.io/badge/Email-099rehan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://rehanraza009.github.io/portfolios/#hero"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
-  <a href="https://github.com/Rehanraza009"><img src="https://img.shields.io/badge/GitHub-Rehanraza009-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rehanraza009&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehanraza009&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=Rehanraza009&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</div>
 
----
+## 📬 Connect With Me
+
+I'm always happy to connect with people working in **data, AI, and software engineering**.
 
 <div align="center">
 
-**“Keep learning, keep building, and make technology useful.”**
+<a href="https://www.linkedin.com/in/rehan-raza-b45bb630"><img src="https://img.shields.io/badge/LinkedIn-Rehan%20Raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:099rehan@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://rehanraza009.github.io/portfolios/#hero"><img src="https://img.shields.io/badge/Portfolio-View%20Work-111827?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+
+<br /><br />
+
+*Curious by nature. Consistent by choice. Building with purpose.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=100&section=footer" alt="" />
 
 </div>
