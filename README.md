@@ -43,7 +43,6 @@ My goal is to combine analytical thinking with strong software engineering funda
 
 - 🎓 **Education:** B.Tech, Computer Science and Engineering (Data Science) — Galgotias University
 - 🎯 **Expected Graduation:** 2027
-- 📊 **Latest Reported CGPA:** 8.3
 - 💼 **Current Experience:** Data Analytics Intern — VisioTechon Services
 - 🧑‍💻 **Previous Experience:** Software Development Engineer Intern — Bluestock Fintech
 - 🚀 **Career Interests:** Data Analyst · Data Scientist · AI/ML Engineer · Software Developer
