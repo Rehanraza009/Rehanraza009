@@ -48,7 +48,7 @@ I aim to combine analytical thinking with software engineering fundamentals to c
 
 <br />
 
-**Education** — Galgotias University · B.Tech, Computer Science and Engineering (Data Science)  
+**Education** — Galgotias University · B.Tech, Computer Science and Engineering (Data Science) 
 **Expected Graduation** — 2027 
 **Experience** — Data Analytics Intern, VisioTechon Services · SDE Intern, Bluestock Fintech  
 **Career Interests** — Data Analyst · Data Scientist · AI/ML Engineer · Software Developer
