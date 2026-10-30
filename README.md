@@ -175,7 +175,10 @@ An Android application concept that connects farmers, customers, and delivery pa
 <br />
 
 <details>
-  <summary><strong>＋ Explore More Projects</strong></summary>
+  <summary>
+    <img src="https://img.shields.io/badge/✦%20EXPLORE%20MORE%20PROJECTS-View%20Additional%20Work-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explore more projects" />
+    &nbsp; <strong>＋ 4 more projects</strong>
+  </summary>
 
   <br />
 
