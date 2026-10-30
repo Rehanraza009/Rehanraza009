@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Rehan Raza**, a B.Tech Computer Science and Engineering student specializing in **Data Science** at **Galgotias University** (2024–2028).
+I'm **Rehan Raza**, a B.Tech Computer Science and Engineering student specializing in **Data Science** at **Galgotias University** (2023–2027).
 
 I enjoy building practical software, exploring data-driven problem solving, and applying AI/ML concepts to real-world use cases. My experience spans Python development, backend APIs, data analysis, machine learning, databases, and web application development.
 
