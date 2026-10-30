@@ -46,54 +46,98 @@ I work across **data analytics, machine learning, and software development**. I 
 - **WIE-HackEarth 2025:** Top 10 finish in the hybrid hackathon.
 - **Bluestock Fintech:** Reported a 35% improvement in API response time during the internship project.
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
-  <sub>A selection of projects across AI, data, and software development</sub>
+  <sub>Selected projects · Real-world problem solving · AI, data & software engineering</sub>
 </div>
 
-### 🛰️ [SatQuery-AI ↗](https://github.com/Rehanraza009/SatQuery-AI)
-**Multimodal Satellite Imagery Intelligence**
+### 🛰️ SatQuery-AI
+**AI-Powered Multimodal Satellite Imagery Intelligence**
 
-A platform for asking natural-language questions about satellite imagery, detecting changes across image dates, and analysing optical and SAR data through specialist vision workflows.
+Explore satellite imagery using natural-language questions, detect changes between images captured at different times, and analyse optical and SAR data with specialist deep-learning workflows.
 
-<sub>**Tech:** Next.js · FastAPI · PyTorch · Hugging Face</sub>
+- **What it solves:** Makes complex satellite-image analysis more accessible through natural-language interaction and focused analysis tools.
+- **Key capabilities:** Image question answering · Bi-temporal change detection · Optical + SAR fusion · Temporal change explanations.
+- **Technology:** Next.js · FastAPI · PyTorch · Hugging Face Transformers
+- **Recognition:** Team SatVision — SIH 2026, selected among the Top 51 teams from 150 teams.
 
----
-
-### 🕵️ [CrimIntel ↗](https://github.com/Rehanraza009/CrimIntel)
-**Evidence-Aware Criminal Network Analysis**
-
-Transforms investigation records into explainable entities and relationships using temporal knowledge graphs, evidence provenance, and human-reviewed investigative leads.
-
-<sub>**Tech:** Next.js · TypeScript · Supabase · NLP · Knowledge Graphs</sub>
-
----
-
-### 🚗 [RideMesh ↗](https://github.com/Rehanraza009/RideMesh)
-**AI-Powered Dynamic Carpooling**
-
-Explores intelligent ride matching based on route compatibility, departure time, detours, pickup convenience, and seat availability.
-
-<sub>**Tech:** React · Vite · Capacitor · Firebase</sub>
+<div>
+  <a href="https://github.com/Rehanraza009/SatQuery-AI"><img src="https://img.shields.io/badge/VIEW%20PROJECT-Repository-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View SatQuery-AI repository" /></a>
+  <img src="https://img.shields.io/badge/DOMAIN-Computer%20Vision-2563EB?style=flat-square" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/FOCUS-Remote%20Sensing-7C3AED?style=flat-square" alt="Remote sensing" />
+</div>
 
 ---
 
-### 🌾 [KisanSetu ↗](https://github.com/Rehanraza009/KisanSetu)
-**Digital Marketplace for Farmers**
+### 🕵️ CrimIntel
+**AI-Powered Criminal Network Analysis System · SIH26189**
 
-Connects farmers, customers, and delivery partners through product listings, market-price insights, and AI-assisted plant-disease analysis.
+An investigation-support platform that transforms fragmented records into explainable entities, relationships, and a time-aware network view. Each surfaced relationship is designed to retain its evidence source and support human review.
 
-<sub>**Tech:** Java · Android · Firebase · AI/ML</sub>
+- **What it solves:** Helps investigators explore links across otherwise disconnected investigation records.
+- **Key capabilities:** Entity extraction · Entity resolution · Temporal knowledge graph · Relationship analysis · Evidence provenance.
+- **Technology:** Next.js · React · TypeScript · Supabase · PostgreSQL · NLP
+- **Responsible AI:** Decision-support only; it does not determine guilt or automatically label people as criminals.
+
+<div>
+  <a href="https://github.com/Rehanraza009/CrimIntel"><img src="https://img.shields.io/badge/VIEW%20PROJECT-Repository-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View CrimIntel repository" /></a>
+  <img src="https://img.shields.io/badge/DOMAIN-Knowledge%20Graphs-2563EB?style=flat-square" alt="Knowledge graphs" />
+  <img src="https://img.shields.io/badge/FOCUS-Evidence%20Provenance-7C3AED?style=flat-square" alt="Evidence provenance" />
+</div>
+
+---
+
+### 🚗 RideMesh
+**AI-Powered Dynamic Carpooling & Real-Time Mobility**
+
+A mobility application concept that helps people travelling in similar directions discover compatible rides, optimise pickup points, and coordinate journeys.
+
+- **What it solves:** Reduces the friction of finding suitable carpool matches for everyday travel.
+- **Key capabilities:** Route compatibility · Departure-time matching · Detour consideration · Pickup optimisation · Ride tracking.
+- **Technology:** React · Vite · Capacitor · Firebase · Google Maps integration.
+
+<div>
+  <a href="https://github.com/Rehanraza009/RideMesh"><img src="https://img.shields.io/badge/VIEW%20PROJECT-Repository-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View RideMesh repository" /></a>
+  <img src="https://img.shields.io/badge/DOMAIN-Mobility%20Tech-2563EB?style=flat-square" alt="Mobility technology" />
+  <img src="https://img.shields.io/badge/PLATFORM-Android-7C3AED?style=flat-square" alt="Android" />
+</div>
+
+---
+
+### 🌾 KisanSetu
+**Digital Marketplace Connecting Farmers & Customers**
+
+An Android application designed to connect farmers, customers, and delivery partners directly, while giving farmers digital tools to manage products and access useful agricultural insights.
+
+- **What it solves:** Makes it easier for farmers to list produce and reach customers without relying entirely on intermediaries.
+- **Key capabilities:** Farmer product listings · Customer ordering · Delivery-partner workflow · Crop-price comparison · Plant-disease analysis.
+- **Technology:** Java · Android · Firebase Authentication · Realtime Database · Firebase Storage · OpenStreetMap.
+
+<div>
+  <a href="https://github.com/Rehanraza009/KisanSetu"><img src="https://img.shields.io/badge/VIEW%20PROJECT-Repository-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View KisanSetu repository" /></a>
+  <img src="https://img.shields.io/badge/DOMAIN-AgriTech-2563EB?style=flat-square" alt="AgriTech" />
+  <img src="https://img.shields.io/badge/PLATFORM-Android-7C3AED?style=flat-square" alt="Android" />
+</div>
 
 <details>
-  <summary><strong>View more projects</strong></summary>
-  <br />
+  <summary><strong>Explore more projects</strong></summary>
 
-  - **[IPO Web Application ↗](https://github.com/Rehanraza009/ipo-web-app-Final)** — Fintech web application and REST API work.
-  - **[TestHub ↗](https://github.com/Rehanraza009/TestHub)** — Online examination platform with admin and student workflows.
-  - **[JARVIS ↗](https://github.com/Rehanraza009/JARVIS)** — Python desktop voice assistant and Windows automation.
-  - **[Machine Learning Stock Analysis ↗](https://github.com/Rehanraza009/machine-learning-stock-analysis)** — Machine-learning exploration for stock-related data.
+  **📈 [Machine Learning Stock Analysis](https://github.com/Rehanraza009/machine-learning-stock-analysis)**  
+  Full-stack stock-analysis application combining a Next.js interface, backend APIs, and Python-based machine-learning scripts.  
+  <sub>Next.js · React · Node.js API Routes · Python · SQL</sub>
+
+  **📝 [TestHub](https://github.com/Rehanraza009/TestHub)**  
+  Online examination platform with separate admin and student workflows for exam creation, assessments, authentication, and result management.  
+  <sub>HTML · CSS · JavaScript · Firebase</sub>
+
+  **📊 [IPO Web Application](https://github.com/Rehanraza009/ipo-web-app-Final)**  
+  IPO-focused web application and REST API work completed during my Bluestock Fintech internship.  
+  <sub>Python · Django · PostgreSQL</sub>
+
+  **🤖 [JARVIS Desktop Assistant](https://github.com/Rehanraza009/JARVIS)**  
+  Python desktop assistant featuring multilingual voice interaction, hands-free conversation modes, and Windows automation.  
+  <sub>Python · PySide6 · Speech / Voice Tools</sub>
 </details>
 
 ## 💼 Experience
