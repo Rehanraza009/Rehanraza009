@@ -17,26 +17,6 @@
 <br />
 
 <div align="center">
-
-  <h3>RECRUITER SNAPSHOT</h3>
-
-  <img src="https://img.shields.io/badge/CGPA-8.3-0F766E?style=for-the-badge" alt="Latest reported CGPA 8.3" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/GRADUATION-2027-2563EB?style=for-the-badge" alt="Expected graduation 2027" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/EXPERIENCE-Data%20Analytics%20Intern-7C3AED?style=for-the-badge" alt="Data Analytics Intern" />
-
-  <br /><br />
-
-  <img src="https://img.shields.io/badge/SIH%202026-TOP%2051%20%2F%20150-0F766E?style=for-the-badge" alt="Smart India Hackathon Top 51 out of 150 teams" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/WIE--HackEarth%202025-TOP%2010-2563EB?style=for-the-badge" alt="WIE-HackEarth Top 10" />
-
-</div>
-
-<br />
-
-<div align="center">
   <a href="#about">👤 About</a> &nbsp; • &nbsp;
   <a href="#highlights">🏆 Highlights</a> &nbsp; • &nbsp;
   <a href="#projects">🚀 Projects</a> &nbsp; • &nbsp;
