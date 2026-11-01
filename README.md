@@ -17,6 +17,26 @@
 <br />
 
 <div align="center">
+
+  <h3>RECRUITER SNAPSHOT</h3>
+
+  <img src="https://img.shields.io/badge/CGPA-8.3-0F766E?style=for-the-badge" alt="Latest reported CGPA 8.3" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GRADUATION-2027-2563EB?style=for-the-badge" alt="Expected graduation 2027" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/EXPERIENCE-Data%20Analytics%20Intern-7C3AED?style=for-the-badge" alt="Data Analytics Intern" />
+
+  <br /><br />
+
+  <img src="https://img.shields.io/badge/SIH%202026-TOP%2051%20%2F%20150-0F766E?style=for-the-badge" alt="Smart India Hackathon Top 51 out of 150 teams" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/WIE--HackEarth%202025-TOP%2010-2563EB?style=for-the-badge" alt="WIE-HackEarth Top 10" />
+
+</div>
+
+<br />
+
+<div align="center">
   <a href="#about">👤 About</a> &nbsp; • &nbsp;
   <a href="#highlights">🏆 Highlights</a> &nbsp; • &nbsp;
   <a href="#projects">🚀 Projects</a> &nbsp; • &nbsp;
@@ -43,6 +63,7 @@ My goal is to combine analytical thinking with strong software engineering funda
 
 - 🎓 **Education:** B.Tech, Computer Science and Engineering (Data Science) — Galgotias University
 - 🎯 **Expected Graduation:** 2027
+- 📊 **Latest Reported CGPA:** 8.3
 - 💼 **Current Experience:** Data Analytics Intern — VisioTechon Services
 - 🧑‍💻 **Previous Experience:** Software Development Engineer Intern — Bluestock Fintech
 - 🚀 **Career Interests:** Data Analyst · Data Scientist · AI/ML Engineer · Software Developer
@@ -70,7 +91,16 @@ Team **SatVision** was selected among the **Top 51 teams from 150 participating 
 Achieved a **Top 10 position** at the WIE-HackEarth 2025 Hybrid Hackathon.
 
 ### 📈 Bluestock Fintech
+
 Contributed to internship project improvements associated with a reported **35% reduction in API response time** and **40% increase in user engagement**.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/35%25-API%20Response%20Time%20Improvement-0F766E?style=for-the-badge" alt="35 percent API response time improvement" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/40%25-User%20Engagement%20Increase-2563EB?style=for-the-badge" alt="40 percent user engagement increase" />
+</div>
+
+<sub>Reported project outcomes from the Bluestock Fintech internship.</sub>
 
 <br />
 
