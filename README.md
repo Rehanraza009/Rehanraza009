@@ -366,10 +366,14 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
   <a href="https://github.com/Rehanraza009?tab=repositories">
     <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rehanraza009&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Most used programming languages across public repositories" />
   </a>
+  <br /><br />
+  <a href="https://github.com/Rehanraza009">
+    <img width="495" src="https://streak-stats.demolab.com?user=Rehanraza009&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata&mode=daily" alt="GitHub contribution streak showing total contributions, current streak and longest streak for Rehan Raza" />
+  </a>
 </div>
 
 <p align="center">
-  <sub>Live stats for public GitHub activity · Cards refresh through the stats service cache.</sub>
+  <sub>Live contribution-based statistics · Streak card shows total contributions, current streak and longest streak. Updates may be delayed by GitHub contribution reporting and card caching.</sub>
 </p>
 
 <br />
