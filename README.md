@@ -368,12 +368,12 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
   </a>
   <br /><br />
   <a href="https://github.com/Rehanraza009">
-    <img width="495" src="https://streak-stats.demolab.com?user=Rehanraza009&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata&mode=daily" alt="GitHub contribution streak showing total contributions, current streak and longest streak for Rehan Raza" />
+    <img width="600" src="./profile/streak.svg" alt="GitHub contribution streak showing total contributions, current streak and longest streak for Rehan Raza" />
   </a>
 </div>
 
 <p align="center">
-  <sub>Live contribution-based statistics · Streak card shows total contributions, current streak and longest streak. Updates may be delayed by GitHub contribution reporting and card caching.</sub>
+  <sub>Streak image is generated from the GitHub contribution graph and refreshed daily by this repository's GitHub Actions workflow. Public contributions are included; private contributions require a personal access token stored as a repository secret.</sub>
 </p>
 
 <br />
