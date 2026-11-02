@@ -23,11 +23,10 @@ jobs:
         run: mkdir -p profile
 
       - name: Generate contribution streak SVG
-        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
+        uses: DenverCoder1/github-readme-streak-stats@v1
         with:
           options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata&mode=daily&card_width=600&card_height=195&disable_animations=true
           path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit updated streak card
         run: |
