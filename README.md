@@ -8,7 +8,7 @@
 
   <h2>From data to insights. From ideas to applications.</h2>
   <p><em>Computer Science undergraduate focused on Data Science, intelligent systems and practical software.</em></p>
-  <p><strong>Galgotias University · B.Tech CSE (Data Science) · Class of 2027 · CGPA 8.3</strong></p>
+  <p><strong>Galgotias University · B.Tech CSE (Data Science) · Class of 2027 </strong></p>
 
   <p>
     <a href="https://rehanraza009.github.io/portfolios/#hero"><strong>Explore Portfolio ↗</strong></a>
@@ -53,9 +53,7 @@ My goal is to turn technical knowledge into reliable, useful solutions while con
   B.Tech · Computer Science & Engineering (Data Science)<br />
   Galgotias University · Expected 2027
   <br /><br />
-  <strong>ACADEMIC PERFORMANCE</strong><br />
-  Latest reported CGPA: **8.3**
-  <br /><br />
+ 
   <strong>CAREER INTERESTS</strong><br />
   Data Analyst · Data Scientist · AI/ML Engineer · Software Developer
 </div>
