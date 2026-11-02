@@ -8,6 +8,7 @@
 
   <h2>From data to insights. From ideas to applications.</h2>
   <p><em>Computer Science undergraduate focused on Data Science, intelligent systems and practical software.</em></p>
+  <p><strong>Galgotias University · B.Tech CSE (Data Science) · Class of 2027 · CGPA 8.3</strong></p>
 
   <p>
     <a href="https://rehanraza009.github.io/portfolios/#hero"><strong>Explore Portfolio ↗</strong></a>
@@ -65,22 +66,20 @@ My goal is to turn technical knowledge into reliable, useful solutions while con
 
 <a id="recognition"></a>
 
-## 🏆 Recognition & outcomes
+## 🏆 Highlights & Recognition
 
-<div align="center">
-  <h3>Top 51 · Smart India Hackathon 2026</h3>
-  <p>Team <strong>SatVision</strong> selected among the Top 51 teams from 150 participating teams for the grand-finale stage.</p>
-  <br />
-  <h3>Top 10 · WIE-HackEarth 2025</h3>
-  <p>Achieved a Top 10 position at the WIE-HackEarth 2025 Hybrid Hackathon.</p>
-</div>
+### **Top 51 of 150 teams — Smart India Hackathon 2026**
+Team **SatVision** was selected among the Top 51 teams from 150 participating teams for the grand-finale stage.
 
-**Internship project outcomes — Bluestock Fintech**
+### **Top 10 — WIE-HackEarth 2025**
+Achieved a **Top 10 position** at the WIE-HackEarth 2025 Hybrid Hackathon.
 
+### **Bluestock Fintech — Internship Project Outcomes**
+Contributed to project improvements associated with:
 - **35% improvement in API response time**
 - **40% increase in user engagement**
 
-<sub>These figures were reported as outcomes of the internship project.</sub>
+<sub>Performance and engagement figures were reported as outcomes of the Bluestock Fintech internship project.</sub>
 
 <br />
 
@@ -252,26 +251,85 @@ An Android application concept connecting farmers, customers and delivery partne
 
 <a id="toolkit"></a>
 
-## 🧰 Technical toolkit
+## 🧰 Technical Skills
 
-### Programming languages
-<code>Python</code> <code>Java</code> <code>C</code> <code>C++</code> <code>JavaScript</code> <code>TypeScript</code>
-
-### Data analytics & data science
-<code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code> <code>Microsoft Excel</code> <code>Power BI</code> <code>SQL</code>
-
-### Machine learning & artificial intelligence
-<code>Scikit-learn</code> <code>TensorFlow</code> <code>PyTorch</code> <code>Random Forest</code> <code>K-Means</code> <code>PCA</code> <code>DBSCAN</code>
-
-### Web & backend development
-<code>Django</code> <code>React</code> <code>Next.js</code> <code>HTML5</code> <code>CSS3</code> <code>Bootstrap</code> <code>REST APIs</code>
-
-### Databases, cloud & developer tools
-<code>MySQL</code> <code>PostgreSQL</code> <code>Firebase</code> <code>Supabase</code> <code>AWS</code> <code>Git</code> <code>GitHub</code> <code>Postman</code> <code>Google Colab</code>
+A focused overview of the languages, analytics tools, frameworks, databases and platforms used across my projects and learning.
 
 <br />
 
----
+### Programming Languages
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</div>
+
+<br />
+
+### Data Analytics & Data Science
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
+</div>
+
+<br />
+
+### Machine Learning & Artificial Intelligence
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Random%20Forest-334155?style=flat-square" alt="Random Forest" />
+  <img src="https://img.shields.io/badge/K--Means-334155?style=flat-square" alt="K-Means" />
+  <img src="https://img.shields.io/badge/PCA-334155?style=flat-square" alt="Principal Component Analysis" />
+  <img src="https://img.shields.io/badge/DBSCAN-334155?style=flat-square" alt="DBSCAN" />
+</div>
+
+<br />
+
+### Web & Backend Development
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/REST%20APIs-334155?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Responsive%20UI-334155?style=flat-square" alt="Responsive UI" />
+</div>
+
+<br />
+
+### Databases, Cloud & Developer Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" alt="Google Colab" />
+</div>
+
+<br />
 
 <a id="learning"></a>
 
