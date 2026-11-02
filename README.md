@@ -359,11 +359,18 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
 ## 📊 GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rehanraza009&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehanraza009&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
-  <br /><br />
-  <img src="https://streak-stats.demolab.com?user=Rehanraza009&hide_border=true&theme=tokyonight" alt="GitHub contribution streak" />
+  <a href="https://github.com/Rehanraza009">
+    <img height="175" src="https://github-stats-extended.vercel.app/api?username=Rehanraza009&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&cache_seconds=86400" alt="Live GitHub statistics for Rehan Raza" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Rehanraza009?tab=repositories">
+    <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rehanraza009&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Most used programming languages across public repositories" />
+  </a>
 </div>
+
+<p align="center">
+  <sub>Live stats for public GitHub activity · Cards refresh through the stats service cache.</sub>
+</p>
 
 <br />
 
