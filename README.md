@@ -338,6 +338,9 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
 - Data Engineering on AWS – Foundations — Amazon Web Services · August 2026
 - AWS ML Engineer Associate Curriculum Overview — Amazon Web Services · August 2026
 
+**Remote sensing & geospatial AI**
+- **AI/ML for Geodata Analysis** — Indian Institute of Remote Sensing (IIRS), Indian Space Research Organisation (ISRO).
+
 **Programming & database technologies**
 - Database Design — Oracle Academy
 - Alpha DSA with Java — Apna College
