@@ -338,8 +338,18 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
 - Data Engineering on AWS – Foundations — Amazon Web Services · August 2026
 - AWS ML Engineer Associate Curriculum Overview — Amazon Web Services · August 2026
 
-**Remote sensing & geospatial AI**
-- **AI/ML for Geodata Analysis** — Indian Institute of Remote Sensing (IIRS), Indian Space Research Organisation (ISRO).
+### ⭐ Featured Course · Remote Sensing & Geospatial AI
+
+<div align="center">
+  <img src="https://img.shields.io/badge/ISRO-IIRS-0B6E99?style=for-the-badge" alt="Indian Space Research Organisation — Indian Institute of Remote Sensing" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/COURSE-COMPLETED-168A72?style=for-the-badge" alt="Course completed" />
+</div>
+
+> **AI/ML for Geodata Analysis**  
+> **Indian Institute of Remote Sensing (IIRS)** · Indian Space Research Organisation (ISRO)
+
+<br />
 
 **Programming & database technologies**
 - Database Design — Oracle Academy
