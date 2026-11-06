@@ -341,13 +341,13 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
 ### ⭐ Featured Course · Remote Sensing & Geospatial AI
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ISRO-IIRS-0B6E99?style=for-the-badge" alt="Indian Space Research Organisation — Indian Institute of Remote Sensing" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/COURSE-COMPLETED-168A72?style=for-the-badge" alt="Course completed" />
+  <img width="100%" src="./assets/iirs-geodata-feature.svg" alt="Featured completed course: AI/ML for Geodata Analysis by IIRS, Indian Space Research Organisation (ISRO)" />
 </div>
 
-> **AI/ML for Geodata Analysis**  
-> **Indian Institute of Remote Sensing (IIRS)** · Indian Space Research Organisation (ISRO)
+<p align="center">
+  <strong>Geospatial Artificial Intelligence · Satellite Data · Machine Learning</strong><br />
+  <sub>Completed through the Indian Institute of Remote Sensing (IIRS), ISRO.</sub>
+</p>
 
 <br />
 
