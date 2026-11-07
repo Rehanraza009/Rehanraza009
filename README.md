@@ -11,11 +11,11 @@
   <p><strong>Galgotias University · B.Tech CSE (Data Science) · Class of 2027 </strong></p>
 
   <p>
-    <a href="https://rehanraza009.github.io/portfolios/#hero"><strong>Explore Portfolio ↗</strong></a>
+    <a href="https://rehanraza009.github.io/portfolios/#hero" title="Visit Rehan's portfolio"><strong>Explore Portfolio ↗</strong></a>
     &nbsp; · &nbsp;
-    <a href="https://www.linkedin.com/in/rehan-raza-b45bb630"><strong>LinkedIn ↗</strong></a>
+    <a href="https://www.linkedin.com/in/rehan-raza-b45bb630" title="Connect with Rehan on LinkedIn"><strong>LinkedIn ↗</strong></a>
     &nbsp; · &nbsp;
-    <a href="mailto:099rehan@gmail.com"><strong>Contact Me ↗</strong></a>
+    <a href="mailto:099rehan@gmail.com" title="Send Rehan an email"><strong>Contact Me ↗</strong></a>
   </p>
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=1000&color=67E8F9&center=true&vCenter=true&width=720&lines=Data+Analytics+%7C+Machine+Learning+%7C+Software+Engineering;Building+practical+solutions+with+Python%2C+SQL+%26+AI;Learning+continuously.+Building+with+purpose." alt="Areas of focus" />
@@ -24,19 +24,19 @@
 <br />
 
 <div align="center">
-  <a href="#about">About</a> &nbsp; ◦ &nbsp;
-  <a href="#recognition">Recognition</a> &nbsp; ◦ &nbsp;
-  <a href="#projects">Projects</a> &nbsp; ◦ &nbsp;
-  <a href="#experience">Experience</a> &nbsp; ◦ &nbsp;
-  <a href="#toolkit">Toolkit</a> &nbsp; ◦ &nbsp;
-  <a href="#learning">Certifications</a>
+  <a href="#about" title="Jump to about section">About</a> &nbsp; ◦ &nbsp;
+  <a href="#recognition" title="Jump to recognition section">Recognition</a> &nbsp; ◦ &nbsp;
+  <a href="#projects" title="Jump to projects section">Projects</a> &nbsp; ◦ &nbsp;
+  <a href="#experience" title="Jump to experience section">Experience</a> &nbsp; ◦ &nbsp;
+  <a href="#toolkit" title="Jump to toolkit section">Toolkit</a> &nbsp; ◦ &nbsp;
+  <a href="#learning" title="Jump to learning section">Certifications</a>
 </div>
 
 <br />
 
 ---
 
-<a id="about"></a>
+<a id="about" title="Open link"></a>
 
 ## 👋 A little about me
 
@@ -62,7 +62,7 @@ My goal is to turn technical knowledge into reliable, useful solutions while con
 
 ---
 
-<a id="recognition"></a>
+<a id="recognition" title="Open link"></a>
 
 ## 🏆 Highlights & Recognition
 
@@ -83,7 +83,7 @@ Contributed to project improvements associated with:
 
 ---
 
-<a id="projects"></a>
+<a id="projects" title="Open link"></a>
 
 ## 🚀 Selected work
 
@@ -105,7 +105,7 @@ A remote-sensing platform that lets users ask natural-language questions about s
 **Technology**  
 <code>Next.js</code> <code>FastAPI</code> <code>Python</code> <code>PyTorch</code> <code>Hugging Face Transformers</code>
 
-[**View SatQuery-AI repository →**](https://github.com/Rehanraza009/SatQuery-AI)
+[**View SatQuery-AI repository →**](https://github.com/Rehanraza009/SatQuery-AI "Open View SatQuery-AI repository")
 
 <sub>Recognition: Team SatVision — Smart India Hackathon 2026, Top 51 teams from 150.</sub>
 
@@ -127,7 +127,7 @@ An investigation-support system concept that organises fragmented investigation 
 **Technology**  
 <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Supabase</code> <code>PostgreSQL</code> <code>NLP</code>
 
-[**View CrimIntel repository →**](https://github.com/Rehanraza009/CrimIntel)
+[**View CrimIntel repository →**](https://github.com/Rehanraza009/CrimIntel "Open View CrimIntel repository")
 
 <sub>Responsible AI: Investigation decision-support only. The system does not determine guilt or automatically classify people as criminals.</sub>
 
@@ -149,7 +149,7 @@ A mobility application designed to help people travelling in similar directions 
 **Technology**  
 <code>React</code> <code>JavaScript</code> <code>Vite</code> <code>Capacitor</code> <code>Firebase</code> <code>Google Maps</code>
 
-[**View RideMesh repository →**](https://github.com/Rehanraza009/RideMesh)
+[**View RideMesh repository →**](https://github.com/Rehanraza009/RideMesh "Open View RideMesh repository")
 
 <br />
 
@@ -169,7 +169,7 @@ An Android application concept connecting farmers, customers and delivery partne
 **Technology**  
 <code>Java</code> <code>Android</code> <code>Firebase Authentication</code> <code>Firebase Realtime Database</code> <code>Firebase Storage</code> <code>OpenStreetMap</code> <code>OSMDroid</code>
 
-[**View KisanSetu repository →**](https://github.com/Rehanraza009/KisanSetu)
+[**View KisanSetu repository →**](https://github.com/Rehanraza009/KisanSetu "Open View KisanSetu repository")
 
 <br />
 
@@ -181,35 +181,35 @@ An Android application concept connecting farmers, customers and delivery partne
   **📈 Machine Learning Stock Analysis**  
   Full-stack stock-analysis application combining a Next.js interface, backend API routes and Python-based machine-learning scripts to explore stock-market data.  
   <sub>Next.js · React · Node.js API Routes · Python · SQL</sub>  
-  [Open repository →](https://github.com/Rehanraza009/machine-learning-stock-analysis)
+  [Open repository →](https://github.com/Rehanraza009/machine-learning-stock-analysis "Open Open repository")
 
   <br />
 
   **📝 TestHub — Online Examination System**  
   Web-based examination platform with separate admin and student workflows for exam creation, question management, assessments, authentication and result viewing.  
   <sub>HTML · CSS · JavaScript · Firebase</sub>  
-  [Open repository →](https://github.com/Rehanraza009/TestHub)
+  [Open repository →](https://github.com/Rehanraza009/TestHub "Open Open repository")
 
   <br />
 
   **📊 IPO Web Application**  
   IPO-focused web application and REST API development contributed to during the Bluestock Fintech internship.  
   <sub>Python · Django · PostgreSQL</sub>  
-  [Open repository →](https://github.com/Rehanraza009/ipo-web-app-Final)
+  [Open repository →](https://github.com/Rehanraza009/ipo-web-app-Final "Open Open repository")
 
   <br />
 
   **🤖 JARVIS — Desktop Voice Assistant**  
   Python desktop assistant with multilingual voice interaction, hands-free conversation modes and Windows application automation.  
   <sub>Python · PySide6 · Speech Recognition · Text-to-Speech</sub>  
-  [Open repository →](https://github.com/Rehanraza009/JARVIS)
+  [Open repository →](https://github.com/Rehanraza009/JARVIS "Open Open repository")
 </details>
 
 <br />
 
 ---
 
-<a id="experience"></a>
+<a id="experience" title="Open link"></a>
 
 ## 💼 Professional experience
 
@@ -247,7 +247,7 @@ An Android application concept connecting farmers, customers and delivery partne
 
 ---
 
-<a id="toolkit"></a>
+<a id="toolkit" title="Open link"></a>
 
 ## 🧰 Technical Skills
 
@@ -329,7 +329,7 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
 
 <br />
 
-<a id="learning"></a>
+<a id="learning" title="Open link"></a>
 
 ## 📜 Certifications & learning
 
@@ -341,7 +341,7 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
 ### ⭐ Featured Course · Remote Sensing & Geospatial AI
 
 <div align="center">
-  <img width="100%" src="./assets/iirs-geodata-feature.svg" alt="Featured completed course: AI/ML for Geodata Analysis by IIRS, Indian Space Research Organisation (ISRO)" />
+  <img width="100%" src="./assets/iirs-geodata-feature.svg" alt="Featured completed course: AI/ML for Geodata Analysis by IIRS, Indian Space Research Organisation (ISRO)" title="Completed IIRS–ISRO course: AI/ML for Geodata Analysis" />
 </div>
 
 <p align="center">
@@ -360,7 +360,7 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
 - Design Thinking — IIT Madras
 
 <div align="center">
-  <a href="https://github.com/Rehanraza009/My-Certification"><strong>Browse all certificates and learning records →</strong></a>
+  <a href="https://github.com/Rehanraza009/My-Certification" title="Open GitHub repository or profile"><strong>Browse all certificates and learning records →</strong></a>
 </div>
 
 <br />
@@ -370,16 +370,16 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
 ## 📊 GitHub activity
 
 <div align="center">
-  <a href="https://github.com/Rehanraza009">
+  <a href="https://github.com/Rehanraza009" title="Open GitHub repository or profile">
     <img height="175" src="https://github-stats-extended.vercel.app/api?username=Rehanraza009&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&cache_seconds=86400" alt="Live GitHub statistics for Rehan Raza" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Rehanraza009?tab=repositories">
+  <a href="https://github.com/Rehanraza009?tab=repositories" title="Open GitHub repository or profile">
     <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rehanraza009&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Most used programming languages across public repositories" />
   </a>
   <br /><br />
-  <a href="https://github.com/Rehanraza009">
-    <img width="600" src="./profile/streak.svg" alt="GitHub contribution streak showing total contributions, current streak and longest streak for Rehan Raza" />
+  <a href="https://github.com/Rehanraza009" title="Open GitHub repository or profile">
+    <img width="600" src="./profile/streak.svg" alt="GitHub contribution streak showing total contributions, current streak and longest streak for Rehan Raza" title="Live GitHub contribution streak — total contributions, current streak and longest streak" />
   </a>
 </div>
 
@@ -396,9 +396,9 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
 I'm open to connecting with professionals, developers and teams working in **data analytics, artificial intelligence, machine learning and software engineering**.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rehan-raza-b45bb630"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:099rehan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-BE123C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://rehanraza009.github.io/portfolios/#hero"><img src="https://img.shields.io/badge/Portfolio-Explore-0F766E?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/rehan-raza-b45bb630" title="Connect with Rehan on LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:099rehan@gmail.com" title="Send Rehan an email"><img src="https://img.shields.io/badge/Email-Contact%20Me-BE123C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://rehanraza009.github.io/portfolios/#hero" title="Visit Rehan's portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore-0F766E?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
 
   <br /><br />
   <h3>Learn with curiosity. Build with purpose. Improve every day.</h3>
