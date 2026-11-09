@@ -66,16 +66,31 @@ My goal is to turn technical knowledge into reliable, useful solutions while con
 
 ## 🏆 Highlights & Recognition
 
-### **Top 51 of 150 teams — Smart India Hackathon 2026**
+<div align="center">
+  <img src="https://img.shields.io/badge/SMART%20INDIA%20HACKATHON%202026-TOP%2051%20OF%20150-0F766E?style=for-the-badge" alt="Smart India Hackathon 2026 — Top 51 of 150 teams" title="Team SatVision selected among the Top 51 teams from 150 participating teams" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/BLUESTOCK-35%25%20API%20IMPROVEMENT-312E81?style=for-the-badge" alt="Bluestock internship — 35 percent API response-time improvement" title="Reported API response-time improvement during the Bluestock internship project" />
+</div>
+
+<br />
+
+### 🚀 Smart India Hackathon 2026
+
+**Top 51 teams out of 150 participants**
+
 Team **SatVision** was selected among the Top 51 teams from 150 participating teams for the grand-finale stage.
 
-### **Top 10 — WIE-HackEarth 2025**
-Achieved a **Top 10 position** at the WIE-HackEarth 2025 Hybrid Hackathon.
+<br />
 
-### **Bluestock Fintech — Internship Project Outcomes**
+### 📈 Bluestock Fintech — Internship Project Outcomes
+
 Contributed to project improvements associated with:
-- **35% improvement in API response time**
-- **40% increase in user engagement**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/35%25-FASTER%20API%20RESPONSE-0F766E?style=for-the-badge" alt="35 percent faster API response time" title="Reported API response-time improvement" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/40%25-HIGHER%20USER%20ENGAGEMENT-312E81?style=for-the-badge" alt="40 percent higher user engagement" title="Reported user-engagement increase" />
+</div>
 
 <sub>Performance and engagement figures were reported as outcomes of the Bluestock Fintech internship project.</sub>
 
