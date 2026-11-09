@@ -25,7 +25,7 @@ jobs:
       - name: Generate contribution streak SVG
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-                    options: user=${{ github.repository_owner }}&background=135,07110D,0B2E22,047857&border=1F6F50&stroke=064E3B&ring=FBBF24&fire=FDE68A&currStreakNum=F8FAFC&sideNums=6EE7B7&currStreakLabel=FBBF24&sideLabels=A7F3D0&dates=9CA3AF&hide_border=true&border_radius=14&timezone=Asia/Kolkata&mode=daily&card_width=720&card_height=195&disable_animations=true
+          options: user=${{ github.repository_owner }}&background=135,07110D,0B2E22,047857&border=1F6F50&stroke=064E3B&ring=FBBF24&fire=FDE68A&currStreakNum=F8FAFC&sideNums=6EE7B7&currStreakLabel=FBBF24&sideLabels=A7F3D0&dates=9CA3AF&hide_border=true&border_radius=14&timezone=Asia/Kolkata&mode=daily&card_width=720&card_height=195&disable_animations=true
           path: profile/streak.svg
 
       - name: Commit updated streak card
