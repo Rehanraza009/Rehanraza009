@@ -1,10 +1,10 @@
 <!--
   REHAN RAZA | GitHub Profile README
-  Visual direction: Midnight Aurora — indigo, cyan and mint
+  Visual direction: Graphite Grove — emerald, mint and warm gold
 -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:312E81,100:0891B2&height=230&section=header&text=REHAN%20RAZA&fontSize=60&fontColor=F8FAFC&fontAlignY=38&desc=DATA%20SCIENCE%20%20%E2%80%A2%20%20AI%2FML%20%20%E2%80%A2%20%20SOFTWARE%20DEVELOPMENT&descSize=16&descColor=CFFAFE&descAlignY=62" alt="Rehan Raza — Data Science, AI/ML and Software Development" title="Rehan Raza — Data Science, AI/ML and Software Development" />
+  <img width="100%" src="./assets/profile-header.svg" alt="Rehan Raza — Data Science, AI/ML and Software Development" title="Graphite emerald developer portfolio banner" />
 
   <h2>From data to insights. From ideas to applications.</h2>
   <p><em>Computer Science undergraduate focused on Data Science, intelligent systems and practical software.</em></p>
@@ -18,7 +18,7 @@
     <a href="mailto:099rehan@gmail.com" title="Send Rehan an email"><strong>Contact Me ↗</strong></a>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=1000&color=67E8F9&center=true&vCenter=true&width=720&lines=Data+Analytics+%7C+Machine+Learning+%7C+Software+Engineering;Building+practical+solutions+with+Python%2C+SQL+%26+AI;Learning+continuously.+Building+with+purpose." alt="Areas of focus" title="Areas of focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=1000&color=6EE7B7&center=true&vCenter=true&width=720&lines=Data+Analytics+%7C+Machine+Learning+%7C+Software+Engineering;Building+practical+solutions+with+Python%2C+SQL+%26+AI;Learning+continuously.+Building+with+purpose." alt="Areas of focus" title="Areas of focus" />
 </div>
 
 <br />
@@ -67,9 +67,9 @@ My goal is to turn technical knowledge into reliable, useful solutions while con
 ## 🏆 Highlights & Recognition
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SMART%20INDIA%20HACKATHON%202026-TOP%2051%20OF%20150-0F766E?style=for-the-badge" alt="Smart India Hackathon 2026 — Top 51 of 150 teams" title="Team SatVision selected among the Top 51 teams from 150 participating teams" />
+  <img src="https://img.shields.io/badge/SMART%20INDIA%20HACKATHON%202026-TOP%2051%20OF%20150-047857?style=for-the-badge" alt="Smart India Hackathon 2026 — Top 51 of 150 teams" title="Team SatVision selected among the Top 51 teams from 150 participating teams" />
   &nbsp;
-  <img src="https://img.shields.io/badge/BLUESTOCK-35%25%20API%20IMPROVEMENT-312E81?style=for-the-badge" alt="Bluestock internship — 35 percent API response-time improvement" title="Reported API response-time improvement during the Bluestock internship project" />
+  <img src="https://img.shields.io/badge/BLUESTOCK-35%25%20API%20IMPROVEMENT-B45309?style=for-the-badge" alt="Bluestock internship — 35 percent API response-time improvement" title="Reported API response-time improvement during the Bluestock internship project" />
 </div>
 
 <br />
@@ -87,9 +87,9 @@ Team **SatVision** was selected among the Top 51 teams from 150 participating te
 Contributed to project improvements associated with:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/35%25-FASTER%20API%20RESPONSE-0F766E?style=for-the-badge" alt="35 percent faster API response time" title="Reported API response-time improvement" />
+  <img src="https://img.shields.io/badge/35%25-FASTER%20API%20RESPONSE-047857?style=for-the-badge" alt="35 percent faster API response time" title="Reported API response-time improvement" />
   &nbsp;
-  <img src="https://img.shields.io/badge/40%25-HIGHER%20USER%20ENGAGEMENT-312E81?style=for-the-badge" alt="40 percent higher user engagement" title="Reported user-engagement increase" />
+  <img src="https://img.shields.io/badge/40%25-HIGHER%20USER%20ENGAGEMENT-B45309?style=for-the-badge" alt="40 percent higher user engagement" title="Reported user-engagement increase" />
 </div>
 
 <sub>Performance and engagement figures were reported as outcomes of the Bluestock Fintech internship project.</sub>
@@ -303,10 +303,10 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" title="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" title="PyTorch" />
   <br /><br />
-  <img src="https://img.shields.io/badge/Random%20Forest-334155?style=flat-square" alt="Random Forest" title="Random Forest" />
-  <img src="https://img.shields.io/badge/K--Means-334155?style=flat-square" alt="K-Means" title="K-Means" />
-  <img src="https://img.shields.io/badge/PCA-334155?style=flat-square" alt="Principal Component Analysis" title="Principal Component Analysis" />
-  <img src="https://img.shields.io/badge/DBSCAN-334155?style=flat-square" alt="DBSCAN" title="DBSCAN" />
+  <img src="https://img.shields.io/badge/Random%20Forest-1F6F50?style=flat-square" alt="Random Forest" title="Random Forest" />
+  <img src="https://img.shields.io/badge/K--Means-1F6F50?style=flat-square" alt="K-Means" title="K-Means" />
+  <img src="https://img.shields.io/badge/PCA-1F6F50?style=flat-square" alt="Principal Component Analysis" title="Principal Component Analysis" />
+  <img src="https://img.shields.io/badge/DBSCAN-1F6F50?style=flat-square" alt="DBSCAN" title="DBSCAN" />
 </div>
 
 <br />
@@ -321,8 +321,8 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" title="Bootstrap" />
   <br /><br />
-  <img src="https://img.shields.io/badge/REST%20APIs-334155?style=flat-square" alt="REST APIs" title="REST APIs" />
-  <img src="https://img.shields.io/badge/Responsive%20UI-334155?style=flat-square" alt="Responsive UI" title="Responsive UI" />
+  <img src="https://img.shields.io/badge/REST%20APIs-1F6F50?style=flat-square" alt="REST APIs" title="REST APIs" />
+  <img src="https://img.shields.io/badge/Responsive%20UI-1F6F50?style=flat-square" alt="Responsive UI" title="Responsive UI" />
 </div>
 
 <br />
@@ -386,11 +386,11 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
 
 <div align="center">
   <a href="https://github.com/Rehanraza009" title="Open GitHub repository or profile">
-    <img height="175" src="https://github-stats-extended.vercel.app/api?username=Rehanraza009&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&cache_seconds=86400" alt="Live GitHub statistics for Rehan Raza" title="Live GitHub profile statistics" title="Live GitHub statistics for Rehan Raza" />
+    <img height="175" src="https://github-stats-extended.vercel.app/api?username=Rehanraza009&show_icons=true&hide_border=true&rank_icon=github&theme=merko&cache_seconds=86400" alt="Live GitHub statistics for Rehan Raza" title="Live GitHub profile statistics" title="Live GitHub statistics for Rehan Raza" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Rehanraza009?tab=repositories" title="Open GitHub repository or profile">
-    <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rehanraza009&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Most used programming languages across public repositories" title="Language breakdown from public repositories" title="Most used programming languages across public repositories" />
+    <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rehanraza009&layout=compact&hide_border=true&theme=merko&cache_seconds=86400" alt="Most used programming languages across public repositories" title="Language breakdown from public repositories" title="Most used programming languages across public repositories" />
   </a>
   <br /><br />
   <a href="https://github.com/Rehanraza009" title="Open GitHub repository or profile">
@@ -413,9 +413,9 @@ I'm open to connecting with professionals, developers and teams working in **dat
 <div align="center">
   <a href="https://www.linkedin.com/in/rehan-raza-b45bb630" title="Connect with Rehan on LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
   <a href="mailto:099rehan@gmail.com" title="Send Rehan an email"><img src="https://img.shields.io/badge/Email-Contact%20Me-BE123C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Email" /></a>
-  <a href="https://rehanraza009.github.io/portfolios/#hero" title="Visit Rehan's portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore-0F766E?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" title="Portfolio" /></a>
+  <a href="https://rehanraza009.github.io/portfolios/#hero" title="Visit Rehan's portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore-047857?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" title="Portfolio" /></a>
 
   <br /><br />
   <h3>Learn with curiosity. Build with purpose. Improve every day.</h3>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:312E81,100:0891B2&height=120&section=footer" alt="" title="Visual element" />
+  <img width="100%" src="./assets/profile-footer.svg" alt="Graphite emerald portfolio footer" title="Graphite and emerald closing banner" />
 </div>
