@@ -386,11 +386,11 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
 
 <div align="center">
   <a href="https://github.com/Rehanraza009" title="Open GitHub repository or profile">
-    <img height="175" src="https://github-stats-extended.vercel.app/api?username=Rehanraza009&show_icons=true&hide_border=true&rank_icon=github&theme=merko&cache_seconds=86400" alt="Live GitHub statistics for Rehan Raza" title="Live GitHub profile statistics" title="Live GitHub statistics for Rehan Raza" />
+    <img height="175" src="https://github-stats-extended.vercel.app/api?username=Rehanraza009&show_icons=true&hide_border=true&rank_icon=github&theme=merko&cache_seconds=86400" alt="Live GitHub statistics for Rehan Raza" title="Live GitHub profile statistics" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Rehanraza009?tab=repositories" title="Open GitHub repository or profile">
-    <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rehanraza009&layout=compact&hide_border=true&theme=merko&cache_seconds=86400" alt="Most used programming languages across public repositories" title="Language breakdown from public repositories" title="Most used programming languages across public repositories" />
+    <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rehanraza009&layout=compact&hide_border=true&theme=merko&cache_seconds=86400" alt="Most used programming languages across public repositories" title="Language breakdown from public repositories" />
   </a>
   <br /><br />
   <a href="https://github.com/Rehanraza009" title="Open GitHub repository or profile">
