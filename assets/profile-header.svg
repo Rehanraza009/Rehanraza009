@@ -1,54 +1,87 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
   <title id="title">Rehan Raza — Data Science, AI/ML and Software Development</title>
-  <desc id="desc">A modern dark graphite and emerald portfolio banner with data-inspired geometric elements.</desc>
+  <desc id="desc">A midnight navy and violet developer banner with electric blue and lavender accents, data charts, code symbols and connected nodes.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#07110D"/>
-      <stop offset=".48" stop-color="#0B2E22"/>
-      <stop offset="1" stop-color="#047857"/>
+      <stop offset="0" stop-color="#080B18"/>
+      <stop offset=".48" stop-color="#171638"/>
+      <stop offset="1" stop-color="#312E81"/>
     </linearGradient>
-    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#6EE7B7" stop-opacity="0"/>
-      <stop offset=".55" stop-color="#6EE7B7" stop-opacity=".24"/>
-      <stop offset="1" stop-color="#FBBF24" stop-opacity=".22"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset=".58" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#F472B6"/>
     </linearGradient>
-    <radialGradient id="orb">
-      <stop offset="0" stop-color="#34D399" stop-opacity=".38"/>
-      <stop offset="1" stop-color="#34D399" stop-opacity="0"/>
+    <radialGradient id="light" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#6366F1" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
     </radialGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M36 0H0V36" fill="none" stroke="#D1FAE5" stroke-opacity=".08" stroke-width="1"/>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#C7D2FE" fill-opacity=".15"/>
     </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#020617" flood-opacity=".38"/>
+    </filter>
     <clipPath id="clip"><rect width="1200" height="300" rx="24"/></clipPath>
   </defs>
   <g clip-path="url(#clip)">
     <rect width="1200" height="300" fill="url(#bg)"/>
-    <rect width="1200" height="300" fill="url(#grid)"/>
-    <circle cx="970" cy="140" r="270" fill="url(#orb)"/>
-    <path d="M0 246C220 190 300 320 540 250S875 190 1200 245" fill="none" stroke="#6EE7B7" stroke-opacity=".18" stroke-width="2"/>
-    <path d="M0 270C240 213 340 340 600 272S920 220 1200 265" fill="none" stroke="#FBBF24" stroke-opacity=".16" stroke-width="1.5"/>
-    <g transform="translate(850 38)" fill="none" stroke-linecap="round">
-      <circle cx="150" cy="105" r="92" stroke="#A7F3D0" stroke-opacity=".32" stroke-width="1.5"/>
-      <circle cx="150" cy="105" r="67" stroke="#FDE68A" stroke-opacity=".48" stroke-width="1.5" stroke-dasharray="4 8"/>
-      <circle cx="150" cy="105" r="42" stroke="#6EE7B7" stroke-opacity=".55" stroke-width="2"/>
-      <path d="M150 12V198M57 105H243M84 39L216 171M216 39L84 171" stroke="#D1FAE5" stroke-opacity=".24"/>
-      <path d="M150 105L225 60L274 84" stroke="#FBBF24" stroke-width="2.5"/>
-      <path d="M150 105L85 155L28 132" stroke="#6EE7B7" stroke-width="2.5"/>
-      <circle cx="150" cy="105" r="8" fill="#FBBF24" stroke="none"/>
-      <circle cx="225" cy="60" r="5" fill="#6EE7B7" stroke="none"/>
-      <circle cx="85" cy="155" r="5" fill="#A7F3D0" stroke="none"/>
-      <circle cx="274" cy="84" r="4" fill="#FBBF24" stroke="none"/>
-      <circle cx="28" cy="132" r="4" fill="#6EE7B7" stroke="none"/>
+    <rect width="1200" height="300" fill="url(#dots)"/>
+    <circle cx="1010" cy="140" r="280" fill="url(#light)"/>
+    <path d="M690 0L820 0L650 300L520 300Z" fill="#818CF8" opacity=".035"/>
+    <path d="M820 0L880 0L710 300L650 300Z" fill="#38BDF8" opacity=".035"/>
+
+    <!-- Abstract analytics dashboard -->
+    <g transform="translate(805 38)" filter="url(#shadow)">
+      <rect x="0" y="0" width="310" height="215" rx="17" fill="#11152B" stroke="#818CF8" stroke-opacity=".5"/>
+      <path d="M0 43H310" stroke="#64748B" stroke-opacity=".28"/>
+      <circle cx="20" cy="21" r="4" fill="#F472B6"/>
+      <circle cx="35" cy="21" r="4" fill="#818CF8"/>
+      <circle cx="50" cy="21" r="4" fill="#38BDF8"/>
+      <text x="72" y="25" fill="#CBD5E1" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.2">DATA OVERVIEW</text>
+      <g transform="translate(20 65)">
+        <rect x="0" y="0" width="118" height="126" rx="9" fill="#1A2040" stroke="#64748B" stroke-opacity=".28"/>
+        <text x="12" y="20" fill="#94A3B8" font-family="Arial,Helvetica,sans-serif" font-size="9">MODEL SIGNAL</text>
+        <path d="M12 101H105M12 72H105M12 43H105" stroke="#94A3B8" stroke-opacity=".16" stroke-dasharray="3 4"/>
+        <path d="M14 91L33 76L49 82L69 48L86 57L103 31" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="103" cy="31" r="4" fill="#38BDF8"/>
+        <circle cx="69" cy="48" r="3" fill="#A5B4FC"/>
+      </g>
+      <g transform="translate(154 65)">
+        <rect x="0" y="0" width="136" height="126" rx="9" fill="#1A2040" stroke="#64748B" stroke-opacity=".28"/>
+        <text x="12" y="20" fill="#94A3B8" font-family="Arial,Helvetica,sans-serif" font-size="9">STACK / SKILLS</text>
+        <rect x="13" y="37" width="110" height="9" rx="4.5" fill="#2D3659"/>
+        <rect x="13" y="37" width="82" height="9" rx="4.5" fill="#38BDF8"/>
+        <rect x="13" y="58" width="110" height="9" rx="4.5" fill="#2D3659"/>
+        <rect x="13" y="58" width="67" height="9" rx="4.5" fill="#818CF8"/>
+        <rect x="13" y="79" width="110" height="9" rx="4.5" fill="#2D3659"/>
+        <rect x="13" y="79" width="94" height="9" rx="4.5" fill="#F472B6"/>
+        <text x="13" y="108" fill="#CBD5E1" font-family="monospace" font-size="9">PY  /  ML  /  API</text>
+      </g>
     </g>
-    <g transform="translate(42 38)">
-      <rect width="190" height="30" rx="15" fill="#064E3B" stroke="#6EE7B7" stroke-opacity=".7"/>
-      <circle cx="17" cy="15" r="4" fill="#FBBF24"/>
-      <text x="31" y="20" fill="#D1FAE5" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2">DEVELOPER PROFILE</text>
+
+    <!-- Connected data nodes, not a planet or satellite motif -->
+    <g transform="translate(760 248)" fill="none" stroke-linecap="round" opacity=".9">
+      <path d="M0 0L52-25L104-4L158-48L210-23L268-65L328-42" stroke="#818CF8" stroke-opacity=".65" stroke-width="2"/>
+      <path d="M0 0L52-25L104-4L158-48L210-23L268-65L328-42" stroke="url(#accent)" stroke-width="1.5"/>
+      <circle cx="0" cy="0" r="4" fill="#38BDF8" stroke="none"/>
+      <circle cx="52" cy="-25" r="5" fill="#A5B4FC" stroke="none"/>
+      <circle cx="104" cy="-4" r="4" fill="#F472B6" stroke="none"/>
+      <circle cx="158" cy="-48" r="5" fill="#38BDF8" stroke="none"/>
+      <circle cx="210" cy="-23" r="4" fill="#A5B4FC" stroke="none"/>
+      <circle cx="268" cy="-65" r="5" fill="#F472B6" stroke="none"/>
+      <circle cx="328" cy="-42" r="4" fill="#38BDF8" stroke="none"/>
     </g>
-    <text x="42" y="143" fill="#F8FAFC" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="800" letter-spacing="1">REHAN RAZA</text>
-    <rect x="44" y="164" width="94" height="4" rx="2" fill="#FBBF24"/>
-    <text x="42" y="204" fill="#D1FAE5" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="600" letter-spacing="1">DATA SCIENCE  /  AI &amp; ML  /  SOFTWARE DEVELOPMENT</text>
-    <text x="43" y="246" fill="#A7F3D0" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing=".4">Turning analytical thinking into practical technology.</text>
+
+    <g transform="translate(46 39)">
+      <rect width="184" height="30" rx="15" fill="#1E1B4B" stroke="#818CF8" stroke-opacity=".8"/>
+      <circle cx="17" cy="15" r="4" fill="#38BDF8"/>
+      <text x="31" y="20" fill="#E0E7FF" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="1.8">DEVELOPER PROFILE</text>
+    </g>
+    <text x="46" y="145" fill="#F8FAFC" font-family="Arial,Helvetica,sans-serif" font-size="67" font-weight="800" letter-spacing="1">REHAN RAZA</text>
+    <rect x="48" y="166" width="118" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="46" y="207" fill="#E0E7FF" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" letter-spacing=".7">DATA SCIENCE  /  AI &amp; ML  /  SOFTWARE DEVELOPMENT</text>
+    <text x="47" y="248" fill="#A5B4FC" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing=".3">From data to insights. From ideas to applications.</text>
   </g>
-  <rect x="1" y="1" width="1198" height="298" rx="24" fill="none" stroke="#6EE7B7" stroke-opacity=".35" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="298" rx="24" fill="none" stroke="#818CF8" stroke-opacity=".55" stroke-width="2"/>
 </svg>
