@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img width="100%" src="./assets/profile-header.svg" alt="Rehan Raza — Data Science, AI/ML and Software Development" title="Graphite emerald developer portfolio banner" />
+  <img width="100%" src="./assets/profile-hero-v2.svg" alt="Rehan Raza — Data Science, AI/ML and Software Development" title="Midnight violet developer profile banner" />
 
   <h2>From data to insights. From ideas to applications.</h2>
   <p><em>Computer Science undergraduate focused on Data Science, intelligent systems and practical software.</em></p>
