@@ -215,39 +215,87 @@ Contributed to project improvements associated with:
 
 ---
 
-<a id="experience" title="Open link"></a>
+<a id="experience" title="Professional experience and internship history"></a>
 
-## 💼 Professional experience
+## 💼 Professional Experience
 
-### Data Analytics Intern
-**VisioTechon Services**  
-<sub>October 2026 – December 2026 · 3-month internship</sub>
-
-- Supporting data analysis and business-oriented reporting activities.
-- Working with **Excel-based data handling** and website-related analysis tasks.
-- Organising and analysing information to communicate useful findings.
-- Translating business questions into structured analytical tasks.
-
-**Focus:** Data Analysis · Microsoft Excel · Data Handling · Reporting
+<div align="center">
+  <p><strong>DATA ANALYTICS</strong> &nbsp; · &nbsp; <strong>BACKEND DEVELOPMENT</strong> &nbsp; · &nbsp; <strong>REAL-WORLD PROJECTS</strong></p>
+  <p>Hands-on internship experience across analytical workflows, API development and database-backed applications.</p>
+</div>
 
 <br />
 
-### Software Development Engineer (SDE) Intern
-**Bluestock Fintech**  
-<sub>July 2025 – September 2025</sub>
+<table>
+  <tr>
+    <td width="27%" valign="top">
+      <img src="https://img.shields.io/badge/01-CURRENT%20ROLE-047857?style=for-the-badge" alt="Current role" title="Current internship role" />
+      <br /><br />
+      <h3>VisioTechon Services</h3>
+      <strong>Data Analytics Intern</strong>
+      <br /><br />
+      <sub>October 2026 – December 2026</sub>
+      <br />
+      <sub>3-month internship</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/FOCUS-Data%20Analytics-047857?style=flat-square" alt="Data Analytics focus" title="Data analytics internship focus" />
+    </td>
+    <td width="73%" valign="top">
+      <strong>Role Overview</strong>
+      <p>Supporting data analysis and business-oriented reporting activities, with a focus on organising information and communicating useful findings.</p>
+      <strong>Key Responsibilities</strong>
+      <ul>
+        <li>Support data analysis and business-oriented reporting activities.</li>
+        <li>Work with <strong>Excel-based data handling</strong> and website-related analysis tasks.</li>
+        <li>Organise and analyse information to communicate useful findings.</li>
+        <li>Translate business questions into structured analytical tasks.</li>
+      </ul>
+      <strong>Tools &amp; Focus Areas</strong>
+      <br /><br />
+      <code>Data Analysis</code> <code>Microsoft Excel</code> <code>Data Handling</code> <code>Reporting</code>
+    </td>
+  </tr>
+</table>
 
-- Developed and contributed to backend components for an **IPO web application and REST API** using **Python, Django and PostgreSQL**.
-- Worked on API endpoints, server-side application logic and relational database integration.
-- Supported application performance and user-experience improvements through backend development.
+<br />
 
-**Technology:** Python · Django · PostgreSQL · REST APIs
+<table>
+  <tr>
+    <td width="27%" valign="top">
+      <img src="https://img.shields.io/badge/02-PREVIOUS%20ROLE-2563EB?style=for-the-badge" alt="Previous role" title="Previous internship role" />
+      <br /><br />
+      <h3>Bluestock Fintech</h3>
+      <strong>Software Development Engineer (SDE) Intern</strong>
+      <br /><br />
+      <sub>July 2025 – September 2025</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/FOCUS-Backend%20Engineering-1D4ED8?style=flat-square" alt="Backend engineering focus" title="Backend engineering internship focus" />
+    </td>
+    <td width="73%" valign="top">
+      <strong>Role Overview</strong>
+      <p>Contributed to backend development for an <strong>IPO web application and REST API</strong>, using Python, Django and PostgreSQL.</p>
+      <strong>Key Contributions</strong>
+      <ul>
+        <li>Developed and contributed to backend components for the IPO web application.</li>
+        <li>Worked on API endpoints, server-side application logic and relational database integration.</li>
+        <li>Supported application performance and user-experience improvements through backend development.</li>
+      </ul>
+      <strong>Technology Stack</strong>
+      <br /><br />
+      <code>Python</code> <code>Django</code> <code>PostgreSQL</code> <code>REST APIs</code>
+      <br /><br />
+      <strong>Reported Project Outcomes</strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/35%25-API%20RESPONSE%20TIME%20IMPROVEMENT-047857?style=for-the-badge" alt="35 percent API response-time improvement" title="Reported API response-time improvement during the internship project" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/40%25-USER%20ENGAGEMENT%20INCREASE-1D4ED8?style=for-the-badge" alt="40 percent increase in user engagement" title="Reported user-engagement increase during the internship project" />
+    </td>
+  </tr>
+</table>
 
-**Reported project outcomes**
+<br />
 
-<div align="center">
-  <h2>35% <sub>API response-time improvement</sub></h2>
-  <h2>40% <sub>increase in user engagement</sub></h2>
-</div>
+<sub>Note: Performance and engagement figures are reported outcomes associated with the Bluestock internship project.</sub>
 
 <br />
 
