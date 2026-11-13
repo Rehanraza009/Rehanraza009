@@ -220,16 +220,16 @@ Contributed to project improvements associated with:
 ## 💼 Professional Experience
 
 <div align="center">
-  <p><strong>DATA ANALYTICS</strong> &nbsp; · &nbsp; <strong>BACKEND DEVELOPMENT</strong> &nbsp; · &nbsp; <strong>REAL-WORLD PROJECTS</strong></p>
-  <p>Hands-on internship experience across analytical workflows, API development and database-backed applications.</p>
+  <p><strong>DATA ANALYTICS &nbsp; · &nbsp; BACKEND DEVELOPMENT &nbsp; · &nbsp; REAL-WORLD PROJECTS</strong></p>
+  <p>Internship experience across analytical workflows, API development and database-backed applications.</p>
 </div>
 
 <br />
 
 <table>
   <tr>
-    <td width="27%" valign="top">
-      <img src="https://img.shields.io/badge/01-CURRENT%20ROLE-047857?style=for-the-badge" alt="Current role" title="Current internship role" />
+    <td width="26%" valign="top">
+      <img src="https://img.shields.io/badge/01-CURRENT%20ROLE-059669?style=for-the-badge" alt="Current role" title="Current internship" />
       <br /><br />
       <h3>VisioTechon Services</h3>
       <strong>Data Analytics Intern</strong>
@@ -238,21 +238,32 @@ Contributed to project improvements associated with:
       <br />
       <sub>3-month internship</sub>
       <br /><br />
-      <img src="https://img.shields.io/badge/FOCUS-Data%20Analytics-047857?style=flat-square" alt="Data Analytics focus" title="Data analytics internship focus" />
+      <img src="https://img.shields.io/badge/FOCUS-Analytics%20%26%20Reporting-047857?style=flat-square" alt="Analytics and reporting" title="Data analytics and reporting focus" />
     </td>
-    <td width="73%" valign="top">
-      <strong>Role Overview</strong>
-      <p>Supporting data analysis and business-oriented reporting activities, with a focus on organising information and communicating useful findings.</p>
-      <strong>Key Responsibilities</strong>
+    <td width="54%" valign="top">
+      <strong>ROLE OVERVIEW</strong>
+      <p>Supporting data analysis and business-oriented reporting, with a focus on organising information and communicating useful findings.</p>
+      <strong>KEY RESPONSIBILITIES</strong>
       <ul>
         <li>Support data analysis and business-oriented reporting activities.</li>
-        <li>Work with <strong>Excel-based data handling</strong> and website-related analysis tasks.</li>
+        <li>Work with Excel-based data handling and website-related analysis tasks.</li>
         <li>Organise and analyse information to communicate useful findings.</li>
         <li>Translate business questions into structured analytical tasks.</li>
       </ul>
-      <strong>Tools &amp; Focus Areas</strong>
+      <strong>TOOLS &amp; FOCUS AREAS</strong>
       <br /><br />
-      <code>Data Analysis</code> <code>Microsoft Excel</code> <code>Data Handling</code> <code>Reporting</code>
+      <code>Microsoft Excel</code> <code>Data Analysis</code> <code>Data Handling</code> <code>Reporting</code>
+    </td>
+    <td width="20%" valign="middle">
+      <div align="center">
+        <img src="https://img.shields.io/badge/CORE-FOCUS-059669?style=flat-square" alt="Core focus" title="Primary focus areas" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/01-Data%20Analysis-065F46?style=for-the-badge" alt="Data Analysis" title="Data analysis" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/02-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" title="Microsoft Excel" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/03-Reporting-0F766E?style=for-the-badge" alt="Reporting" title="Reporting" />
+      </div>
     </td>
   </tr>
 </table>
@@ -261,41 +272,44 @@ Contributed to project improvements associated with:
 
 <table>
   <tr>
-    <td width="27%" valign="top">
-      <img src="https://img.shields.io/badge/02-PREVIOUS%20ROLE-2563EB?style=for-the-badge" alt="Previous role" title="Previous internship role" />
+    <td width="26%" valign="top">
+      <img src="https://img.shields.io/badge/02-PREVIOUS%20ROLE-2563EB?style=for-the-badge" alt="Previous role" title="Previous internship" />
       <br /><br />
       <h3>Bluestock Fintech</h3>
       <strong>Software Development Engineer (SDE) Intern</strong>
       <br /><br />
       <sub>July 2025 – September 2025</sub>
       <br /><br />
-      <img src="https://img.shields.io/badge/FOCUS-Backend%20Engineering-1D4ED8?style=flat-square" alt="Backend engineering focus" title="Backend engineering internship focus" />
+      <img src="https://img.shields.io/badge/FOCUS-Backend%20Engineering-1D4ED8?style=flat-square" alt="Backend engineering" title="Backend engineering focus" />
     </td>
-    <td width="73%" valign="top">
-      <strong>Role Overview</strong>
+    <td width="54%" valign="top">
+      <strong>ROLE OVERVIEW</strong>
       <p>Contributed to backend development for an <strong>IPO web application and REST API</strong>, using Python, Django and PostgreSQL.</p>
-      <strong>Key Contributions</strong>
+      <strong>KEY CONTRIBUTIONS</strong>
       <ul>
-        <li>Developed and contributed to backend components for the IPO web application.</li>
+        <li>Developed backend components for the IPO web application.</li>
         <li>Worked on API endpoints, server-side application logic and relational database integration.</li>
-        <li>Supported application performance and user-experience improvements through backend development.</li>
+        <li>Supported application performance and user-experience improvements.</li>
       </ul>
-      <strong>Technology Stack</strong>
+      <strong>TECHNOLOGY STACK</strong>
       <br /><br />
       <code>Python</code> <code>Django</code> <code>PostgreSQL</code> <code>REST APIs</code>
-      <br /><br />
-      <strong>Reported Project Outcomes</strong>
-      <br /><br />
-      <img src="https://img.shields.io/badge/35%25-API%20RESPONSE%20TIME%20IMPROVEMENT-047857?style=for-the-badge" alt="35 percent API response-time improvement" title="Reported API response-time improvement during the internship project" />
-      <br /><br />
-      <img src="https://img.shields.io/badge/40%25-USER%20ENGAGEMENT%20INCREASE-1D4ED8?style=for-the-badge" alt="40 percent increase in user engagement" title="Reported user-engagement increase during the internship project" />
+    </td>
+    <td width="20%" valign="middle">
+      <div align="center">
+        <img src="https://img.shields.io/badge/PROJECT-OUTCOMES-2563EB?style=flat-square" alt="Project outcomes" title="Reported internship project outcomes" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/35%25-Faster%20API%20Response-0F766E?style=for-the-badge" alt="35 percent faster API response time" title="Reported API response-time improvement" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/40%25-Higher%20Engagement-1D4ED8?style=for-the-badge" alt="40 percent higher user engagement" title="Reported user-engagement increase" />
+      </div>
     </td>
   </tr>
 </table>
 
 <br />
 
-<sub>Note: Performance and engagement figures are reported outcomes associated with the Bluestock internship project.</sub>
+<sub>Note: The 35% API response-time improvement and 40% user-engagement increase are reported outcomes associated with the Bluestock Fintech internship project.</sub>
 
 <br />
 
