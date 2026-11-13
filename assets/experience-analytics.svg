@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="210" viewBox="0 0 320 210" role="img" aria-label="Data analytics dashboard illustration">
+<defs>
+<linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#052E24"/><stop offset="1" stop-color="#064E3B"/></linearGradient>
+<linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#34D399"/><stop offset="1" stop-color="#A7F3D0"/></linearGradient>
+<filter id="g"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<circle cx="210" cy="100" r="95" fill="#10B981" opacity=".12" filter="url(#g)"/>
+<rect x="38" y="25" width="244" height="155" rx="15" fill="url(#a)" stroke="#34D399" stroke-opacity=".75" stroke-width="2"/>
+<rect x="52" y="39" width="216" height="24" rx="6" fill="#052E24"/>
+<circle cx="66" cy="51" r="3.5" fill="#FBBF24"/><circle cx="78" cy="51" r="3.5" fill="#6EE7B7"/><circle cx="90" cy="51" r="3.5" fill="#34D399"/>
+<path d="M62 145H258M62 120H258M62 95H258" stroke="#A7F3D0" opacity=".17" stroke-dasharray="4 5"/>
+<rect x="66" y="126" width="17" height="19" rx="3" fill="#059669"/><rect x="94" y="108" width="17" height="37" rx="3" fill="#10B981"/><rect x="122" y="92" width="17" height="53" rx="3" fill="#34D399"/><rect x="150" y="105" width="17" height="40" rx="3" fill="#059669"/><rect x="178" y="78" width="17" height="67" rx="3" fill="#6EE7B7"/><rect x="206" y="66" width="17" height="79" rx="3" fill="#34D399"/>
+<path d="M67 114L101 95L130 82L158 90L187 58L223 51" fill="none" stroke="#FBBF24" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="223" cy="51" r="5" fill="#FDE68A"/>
+<rect x="111" y="188" width="98" height="8" rx="4" fill="#10B981" opacity=".55"/>
+<rect x="144" y="180" width="32" height="9" rx="3" fill="#34D399" opacity=".8"/>
+</svg>
