@@ -256,13 +256,11 @@ Contributed to project improvements associated with:
     </td>
     <td width="20%" valign="middle">
       <div align="center">
-        <img src="https://img.shields.io/badge/CORE-FOCUS-059669?style=flat-square" alt="Core focus" title="Primary focus areas" />
+        <img width="100%" src="./assets/experience-analytics.svg" alt="Data analytics dashboard illustration with charts and trend line" title="Data analytics and reporting visual" />
+        <br />
+        <img src="https://img.shields.io/badge/FOCUS-Analytics-059669?style=flat-square" alt="Analytics focus" title="Data analytics focus" />
         <br /><br />
-        <img src="https://img.shields.io/badge/01-Data%20Analysis-065F46?style=for-the-badge" alt="Data Analysis" title="Data analysis" />
-        <br /><br />
-        <img src="https://img.shields.io/badge/02-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" title="Microsoft Excel" />
-        <br /><br />
-        <img src="https://img.shields.io/badge/03-Reporting-0F766E?style=for-the-badge" alt="Reporting" title="Reporting" />
+        <img src="https://img.shields.io/badge/EXCEL-Reporting-047857?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel reporting" title="Excel-based analysis and reporting" />
       </div>
     </td>
   </tr>
@@ -297,11 +295,11 @@ Contributed to project improvements associated with:
     </td>
     <td width="20%" valign="middle">
       <div align="center">
-        <img src="https://img.shields.io/badge/PROJECT-OUTCOMES-2563EB?style=flat-square" alt="Project outcomes" title="Reported internship project outcomes" />
+        <img width="100%" src="./assets/experience-backend.svg" alt="Backend API, application and relational database illustration" title="Backend development and API integration visual" />
+        <br />
+        <img src="https://img.shields.io/badge/35%25-API%20RESPONSE-1D4ED8?style=for-the-badge" alt="35 percent API response-time improvement" title="Reported API response-time improvement" />
         <br /><br />
-        <img src="https://img.shields.io/badge/35%25-Faster%20API%20Response-0F766E?style=for-the-badge" alt="35 percent faster API response time" title="Reported API response-time improvement" />
-        <br /><br />
-        <img src="https://img.shields.io/badge/40%25-Higher%20Engagement-1D4ED8?style=for-the-badge" alt="40 percent higher user engagement" title="Reported user-engagement increase" />
+        <img src="https://img.shields.io/badge/40%25-USER%20ENGAGEMENT-047857?style=for-the-badge" alt="40 percent user-engagement increase" title="Reported user-engagement increase" />
       </div>
     </td>
   </tr>
