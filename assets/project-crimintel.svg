@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="210" viewBox="0 0 320 210" role="img" aria-label="Evidence network graph illustration">
+<defs><radialGradient id="bg"><stop stop-color="#33204F"/><stop offset="1" stop-color="#111225"/></radialGradient><filter id="g"><feGaussianBlur stdDeviation="7"/></filter></defs>
+<rect width="320" height="210" rx="16" fill="url(#bg)"/><circle cx="158" cy="101" r="44" fill="#F43F5E" opacity=".22" filter="url(#g)"/>
+<g stroke="#A78BFA" stroke-opacity=".72" stroke-width="2.2" fill="none"><path d="M158 101L77 43L41 111L91 174L158 101L240 47L277 111L236 173L158 101"/><path d="M77 43L240 47M41 111L277 111M91 174L236 173"/></g>
+<g fill="#24234D" stroke="#A78BFA" stroke-width="2"><circle cx="77" cy="43" r="17"/><circle cx="41" cy="111" r="17"/><circle cx="91" cy="174" r="17"/><circle cx="240" cy="47" r="17"/><circle cx="277" cy="111" r="17"/><circle cx="236" cy="173" r="17"/></g>
+<circle cx="158" cy="101" r="29" fill="#881337" stroke="#FB7185" stroke-width="3"/><circle cx="158" cy="91" r="8" fill="#FFE4E6"/><path d="M143 115c2-18 28-18 30 0" fill="#FFE4E6"/>
+<g fill="#DDD6FE"><circle cx="77" cy="37" r="5"/><path d="M67 52c2-13 18-13 20 0" fill="#DDD6FE"/><circle cx="240" cy="41" r="5"/><path d="M230 56c2-13 18-13 20 0" fill="#DDD6FE"/><circle cx="41" cy="105" r="5"/><path d="M31 120c2-13 18-13 20 0" fill="#DDD6FE"/></g>
+</svg>
