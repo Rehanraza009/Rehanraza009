@@ -100,11 +100,13 @@ Contributed to project improvements associated with:
 
 <a id="projects" title="Open link"></a>
 
+<a id="projects" title="Selected projects and portfolio work"></a>
+
 ## 🚀 Selected Work
 
 <div align="center">
-  <p><strong>8 PROJECTS · AI &amp; DATA · FULL-STACK · MOBILE APPLICATIONS</strong></p>
-  <p>Explore selected work across remote sensing, investigation intelligence, mobility, AgriTech and application development.</p>
+  <p><strong>8 PROJECTS &nbsp; · &nbsp; AI & DATA &nbsp; · &nbsp; FULL-STACK &nbsp; · &nbsp; MOBILE APPLICATIONS</strong></p>
+  <p>Selected work across remote sensing, investigation intelligence, mobility, AgriTech and application development.</p>
 </div>
 
 <br />
@@ -113,65 +115,138 @@ Contributed to project improvements associated with:
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <p><img src="https://img.shields.io/badge/01-FEATURED-0369A1?style=flat-square" alt="Featured project" title="Featured project" /></p>
+    <td width="24%" valign="top">
+      <img src="https://img.shields.io/badge/01-FEATURED-0369A1?style=for-the-badge" alt="Featured project" title="Featured project" />
+      <br /><br />
       <h3>🛰️ SatQuery-AI</h3>
-      <p><strong>AI-Powered Multimodal Satellite Imagery Intelligence</strong></p>
-      <p>A remote-sensing platform that lets users ask natural-language questions about satellite imagery. It combines image understanding, multi-temporal change detection and workflows for optical and Synthetic Aperture Radar (SAR) imagery.</p>
-      <p><strong>Core capabilities</strong><br />
-      • Natural-language visual question answering<br />
-      • Bi-temporal change detection using Siamese U-Net<br />
-      • Optical and SAR data processing and fusion<br />
-      • Model and task routing for remote-sensing analysis</p>
-      <p><strong>Technology</strong><br />
-      <code>Next.js</code> <code>FastAPI</code> <code>Python</code> <code>PyTorch</code> <code>Hugging Face</code></p>
-      <p><a href="https://github.com/Rehanraza009/SatQuery-AI" title="Explore the SatQuery-AI source code"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-Repository-0369A1?style=for-the-badge&logo=github&logoColor=white" alt="Explore SatQuery-AI repository" /></a></p>
-      <sub>Team SatVision — SIH 2026, Top 51 teams from 150.</sub>
+      <strong>Multimodal Satellite Imagery Intelligence</strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/DOMAIN-Remote%20Sensing-075985?style=flat-square" alt="Remote sensing" title="Remote sensing and computer vision" />
+      <br /><br />
+      <sub>Team SatVision · SIH 2026 Top 51</sub>
     </td>
-    <td width="50%" valign="top">
-      <p><img src="https://img.shields.io/badge/02-SIH%20PROBLEM%20STATEMENT-6D28D9?style=flat-square" alt="SIH project" title="Smart India Hackathon project" /></p>
-      <h3>🕵️ CrimIntel</h3>
-      <p><strong>AI-Powered Criminal Network Analysis System · SIH26189</strong></p>
-      <p>An investigation-support system concept that organises fragmented records into connected, explainable entities and relationships. A temporal knowledge graph and evidence provenance help analysts review potential links across records.</p>
-      <p><strong>Core capabilities</strong><br />
-      • Named-entity and relationship extraction<br />
-      • Entity resolution across investigation records<br />
-      • Temporal knowledge-graph construction<br />
-      • Network analysis and evidence provenance</p>
-      <p><strong>Technology</strong><br />
-      <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>PostgreSQL</code> <code>NLP</code></p>
-      <p><a href="https://github.com/Rehanraza009/CrimIntel" title="Explore the CrimIntel source code"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore CrimIntel repository" /></a></p>
-      <sub>Decision-support concept; it does not determine guilt or automatically classify people as criminals.</sub>
+    <td width="53%" valign="top">
+      <strong>OVERVIEW</strong>
+      <p>A remote-sensing platform that lets users ask natural-language questions about satellite imagery and explore multi-temporal changes across optical and Synthetic Aperture Radar (SAR) data.</p>
+      <strong>KEY CAPABILITIES</strong>
+      <ul>
+        <li>Natural-language visual question answering.</li>
+        <li>Bi-temporal change detection using Siamese U-Net.</li>
+        <li>Optical and SAR data processing and fusion.</li>
+        <li>Model and task routing for remote-sensing analysis.</li>
+      </ul>
+      <strong>TECHNOLOGY</strong>
+      <br /><br />
+      <code>Next.js</code> <code>FastAPI</code> <code>Python</code> <code>PyTorch</code> <code>Hugging Face</code>
+    </td>
+    <td width="23%" valign="middle">
+      <img width="100%" src="./assets/project-satquery.svg" alt="Satellite and Earth observation illustration for SatQuery-AI" title="SatQuery-AI remote sensing visual" />
+      <br /><br />
+      <a href="https://github.com/Rehanraza009/SatQuery-AI" title="Explore SatQuery-AI source code"><img src="https://img.shields.io/badge/VIEW%20PROJECT-Repository-0369A1?style=for-the-badge&logo=github&logoColor=white" alt="View SatQuery-AI repository" /></a>
     </td>
   </tr>
+</table>
+
+<br />
+
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <p><img src="https://img.shields.io/badge/03-MOBILITY%20TECH-047857?style=flat-square" alt="Mobility technology" title="Mobility technology project" /></p>
-      <h3>🚗 RideMesh</h3>
-      <p><strong>AI-Powered Dynamic Carpooling &amp; Real-Time Mobility</strong></p>
-      <p>A mobile mobility application designed to help people travelling in similar directions discover compatible rides. Matching considers route overlap, departure time, detours, pickup convenience and seat availability.</p>
-      <p><strong>Core capabilities</strong><br />
-      • Route and destination compatibility<br />
-      • Departure-time and seat-availability matching<br />
-      • Driver detour and pickup-point considerations<br />
-      • Ride coordination and tracking workflows</p>
-      <p><strong>Technology</strong><br />
-      <code>React</code> <code>JavaScript</code> <code>Vite</code> <code>Capacitor</code> <code>Firebase</code> <code>Google Maps</code></p>
-      <p><a href="https://github.com/Rehanraza009/RideMesh" title="Explore the RideMesh source code"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-Repository-047857?style=for-the-badge&logo=github&logoColor=white" alt="Explore RideMesh repository" /></a></p>
+    <td width="24%" valign="top">
+      <img src="https://img.shields.io/badge/02-SIH%20PROJECT-7C3AED?style=for-the-badge" alt="Smart India Hackathon project" title="SIH problem statement project" />
+      <br /><br />
+      <h3>🕵️ CrimIntel</h3>
+      <strong>AI-Powered Criminal Network Analysis · SIH26189</strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/DOMAIN-NLP%20%26%20KNOWLEDGE%20GRAPHS-6D28D9?style=flat-square" alt="NLP and knowledge graphs" title="NLP and knowledge graph analysis" />
     </td>
-    <td width="50%" valign="top">
-      <p><img src="https://img.shields.io/badge/04-AGRITECH-B45309?style=flat-square" alt="AgriTech project" title="Agriculture technology project" /></p>
+    <td width="53%" valign="top">
+      <strong>OVERVIEW</strong>
+      <p>An investigation-support system concept that organises fragmented records into connected, explainable entities and relationships. A temporal knowledge graph and evidence provenance help analysts review potential links.</p>
+      <strong>KEY CAPABILITIES</strong>
+      <ul>
+        <li>Named-entity and relationship extraction.</li>
+        <li>Entity resolution across investigation records.</li>
+        <li>Temporal knowledge-graph construction.</li>
+        <li>Network analysis and evidence provenance.</li>
+      </ul>
+      <strong>TECHNOLOGY</strong>
+      <br /><br />
+      <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>PostgreSQL</code> <code>NLP</code>
+      <br /><br />
+      <sub>Decision-support concept only; it does not determine guilt or automatically classify people as criminals.</sub>
+    </td>
+    <td width="23%" valign="middle">
+      <img width="100%" src="./assets/project-crimintel.svg" alt="Connected entities and evidence network graph illustration for CrimIntel" title="CrimIntel network analysis visual" />
+      <br /><br />
+      <a href="https://github.com/Rehanraza009/CrimIntel" title="Explore CrimIntel source code"><img src="https://img.shields.io/badge/VIEW%20PROJECT-Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View CrimIntel repository" /></a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<table>
+  <tr>
+    <td width="24%" valign="top">
+      <img src="https://img.shields.io/badge/03-MOBILITY%20TECH-047857?style=for-the-badge" alt="Mobility technology" title="Mobility technology project" />
+      <br /><br />
+      <h3>🚗 RideMesh</h3>
+      <strong>Dynamic Carpooling & Real-Time Mobility</strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/PLATFORM-Mobile%20Application-047857?style=flat-square" alt="Mobile application" title="Mobile application" />
+    </td>
+    <td width="53%" valign="top">
+      <strong>OVERVIEW</strong>
+      <p>A mobility application designed to help people travelling in similar directions discover compatible rides. Matching considers route overlap, departure time, detours, pickup convenience and seat availability.</p>
+      <strong>KEY CAPABILITIES</strong>
+      <ul>
+        <li>Route and destination compatibility.</li>
+        <li>Departure-time and seat-availability matching.</li>
+        <li>Driver detour and pickup-point considerations.</li>
+        <li>Ride coordination and tracking workflows.</li>
+      </ul>
+      <strong>TECHNOLOGY</strong>
+      <br /><br />
+      <code>React</code> <code>JavaScript</code> <code>Vite</code> <code>Capacitor</code> <code>Firebase</code> <code>Google Maps</code>
+    </td>
+    <td width="23%" valign="middle">
+      <img width="100%" src="./assets/project-ridemesh.svg" alt="Carpool route and map illustration for RideMesh" title="RideMesh route matching visual" />
+      <br /><br />
+      <a href="https://github.com/Rehanraza009/RideMesh" title="Explore RideMesh source code"><img src="https://img.shields.io/badge/VIEW%20PROJECT-Repository-047857?style=for-the-badge&logo=github&logoColor=white" alt="View RideMesh repository" /></a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<table>
+  <tr>
+    <td width="24%" valign="top">
+      <img src="https://img.shields.io/badge/04-AGRITECH-B45309?style=for-the-badge" alt="AgriTech project" title="Agriculture technology project" />
+      <br /><br />
       <h3>🌾 KisanSetu</h3>
-      <p><strong>Digital Marketplace Connecting Farmers and Customers</strong></p>
+      <strong>Digital Marketplace for Farmers & Customers</strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/PLATFORM-Android-B45309?style=flat-square&logo=android&logoColor=white" alt="Android application" title="Android application" />
+    </td>
+    <td width="53%" valign="top">
+      <strong>OVERVIEW</strong>
       <p>An Android application concept connecting farmers, customers and delivery partners through a digital produce marketplace, with tools to manage product listings and access agricultural information.</p>
-      <p><strong>Core capabilities</strong><br />
-      • Farmer product listings with images and prices<br />
-      • Customer browsing and ordering workflows<br />
-      • Delivery-partner order management<br />
-      • Crop-price information and plant-disease analysis</p>
-      <p><strong>Technology</strong><br />
-      <code>Java</code> <code>Android</code> <code>Firebase</code> <code>OpenStreetMap</code> <code>OSMDroid</code></p>
-      <p><a href="https://github.com/Rehanraza009/KisanSetu" title="Explore the KisanSetu source code"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-Repository-B45309?style=for-the-badge&logo=github&logoColor=white" alt="Explore KisanSetu repository" /></a></p>
+      <strong>KEY CAPABILITIES</strong>
+      <ul>
+        <li>Farmer product listings with images and prices.</li>
+        <li>Customer browsing and ordering workflows.</li>
+        <li>Delivery-partner order management.</li>
+        <li>Crop-price information and plant-disease analysis.</li>
+      </ul>
+      <strong>TECHNOLOGY</strong>
+      <br /><br />
+      <code>Java</code> <code>Android</code> <code>Firebase</code> <code>OpenStreetMap</code> <code>OSMDroid</code>
+    </td>
+    <td width="23%" valign="middle">
+      <img width="100%" src="./assets/project-kisansetu.svg" alt="Agriculture and digital marketplace illustration for KisanSetu" title="KisanSetu agriculture marketplace visual" />
+      <br /><br />
+      <a href="https://github.com/Rehanraza009/KisanSetu" title="Explore KisanSetu source code"><img src="https://img.shields.io/badge/VIEW%20PROJECT-Repository-B45309?style=for-the-badge&logo=github&logoColor=white" alt="View KisanSetu repository" /></a>
     </td>
   </tr>
 </table>
@@ -185,13 +260,17 @@ Contributed to project improvements associated with:
     <td width="50%" valign="top">
       <h3>📈 Machine Learning Stock Analysis</h3>
       <p>Full-stack stock-analysis application combining a Next.js interface, backend API routes and Python-based machine-learning scripts to explore stock-market data.</p>
-      <p><strong>Stack:</strong> <code>Next.js</code> <code>React</code> <code>Node.js</code> <code>Python</code> <code>SQL</code></p>
+      <strong>TECHNOLOGY</strong><br /><br />
+      <code>Next.js</code> <code>React</code> <code>Node.js</code> <code>Python</code> <code>SQL</code>
+      <br /><br />
       <a href="https://github.com/Rehanraza009/machine-learning-stock-analysis" title="Explore Machine Learning Stock Analysis repository">View repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>📝 TestHub — Online Examination System</h3>
       <p>Web-based examination platform with separate admin and student workflows for exam creation, question management, assessments, authentication and result viewing.</p>
-      <p><strong>Stack:</strong> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Firebase</code></p>
+      <strong>TECHNOLOGY</strong><br /><br />
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Firebase</code>
+      <br /><br />
       <a href="https://github.com/Rehanraza009/TestHub" title="Explore TestHub repository">View repository →</a>
     </td>
   </tr>
@@ -199,13 +278,17 @@ Contributed to project improvements associated with:
     <td width="50%" valign="top">
       <h3>📊 IPO Web Application</h3>
       <p>IPO-focused web application and REST API development contributed to during the Bluestock Fintech internship.</p>
-      <p><strong>Stack:</strong> <code>Python</code> <code>Django</code> <code>PostgreSQL</code></p>
+      <strong>TECHNOLOGY</strong><br /><br />
+      <code>Python</code> <code>Django</code> <code>PostgreSQL</code>
+      <br /><br />
       <a href="https://github.com/Rehanraza009/ipo-web-app-Final" title="Explore IPO Web Application repository">View repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 JARVIS — Desktop Voice Assistant</h3>
       <p>Python desktop assistant with multilingual voice interaction, hands-free conversation modes and Windows application automation.</p>
-      <p><strong>Stack:</strong> <code>Python</code> <code>PySide6</code> <code>Speech Recognition</code> <code>Text-to-Speech</code></p>
+      <strong>TECHNOLOGY</strong><br /><br />
+      <code>Python</code> <code>PySide6</code> <code>Speech Recognition</code> <code>Text-to-Speech</code>
+      <br /><br />
       <a href="https://github.com/Rehanraza009/JARVIS" title="Explore JARVIS repository">View repository →</a>
     </td>
   </tr>
