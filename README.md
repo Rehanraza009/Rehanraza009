@@ -142,7 +142,9 @@ Contributed to project improvements associated with:
     <td width="23%" valign="middle">
       <img width="100%" src="./assets/project-satquery.svg" alt="Satellite and Earth observation illustration for SatQuery-AI" title="SatQuery-AI remote sensing visual" />
       <br /><br />
-      <a href="https://github.com/Rehanraza009/SatQuery-AI" title="Explore SatQuery-AI source code"><img src="https://img.shields.io/badge/VIEW%20PROJECT-Repository-0369A1?style=for-the-badge&logo=github&logoColor=white" alt="View SatQuery-AI repository" /></a>
+      <a href="https://sat-query-ai-pink.vercel.app/login" title="Open the live SatQuery-AI application"><img src="https://img.shields.io/badge/LIVE%20DEMO-Open%20Application-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Open live SatQuery-AI application" /></a>
+      <br /><br />
+      <a href="https://github.com/Rehanraza009/SatQuery-AI" title="Explore SatQuery-AI source code"><img src="https://img.shields.io/badge/SOURCE%20CODE-GitHub-0369A1?style=for-the-badge&logo=github&logoColor=white" alt="View SatQuery-AI source code on GitHub" /></a>
     </td>
   </tr>
 </table>
