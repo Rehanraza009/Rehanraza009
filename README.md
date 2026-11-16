@@ -257,41 +257,72 @@ Contributed to project improvements associated with:
 
 ### ✦ More Projects
 
+<div align="center">
+  <p><strong>4 ADDITIONAL BUILDS</strong> &nbsp; · &nbsp; <strong>DATA</strong> &nbsp; · &nbsp; <strong>WEB APPLICATIONS</strong> &nbsp; · &nbsp; <strong>DESKTOP AI</strong></p>
+  <p>A few more projects exploring analytics, productivity tools and application development.</p>
+</div>
+
+<br />
+
 <table>
   <tr>
     <td width="50%" valign="top">
+      <div align="center">
+        <img width="100%" src="./assets/more-stock-visual.svg" alt="Stock market analytics dashboard illustration" title="Machine Learning Stock Analysis visual" />
+        <br />
+        <img src="https://img.shields.io/badge/01-DATA%20SCIENCE-0369A1?style=flat-square" alt="Data Science project" title="Data Science project" />
+      </div>
       <h3>📈 Machine Learning Stock Analysis</h3>
       <p>Full-stack stock-analysis application combining a Next.js interface, backend API routes and Python-based machine-learning scripts to explore stock-market data.</p>
-      <strong>TECHNOLOGY</strong><br /><br />
+      <strong>TECHNOLOGY</strong>
+      <br /><br />
       <code>Next.js</code> <code>React</code> <code>Node.js</code> <code>Python</code> <code>SQL</code>
       <br /><br />
-      <a href="https://github.com/Rehanraza009/machine-learning-stock-analysis" title="Explore Machine Learning Stock Analysis repository">View repository →</a>
+      <a href="https://github.com/Rehanraza009/machine-learning-stock-analysis" title="Explore Machine Learning Stock Analysis repository"><img src="https://img.shields.io/badge/VIEW%20PROJECT-Repository-0369A1?style=for-the-badge&logo=github&logoColor=white" alt="View Machine Learning Stock Analysis repository" /></a>
     </td>
     <td width="50%" valign="top">
+      <div align="center">
+        <img width="100%" src="./assets/more-testhub-visual.svg" alt="Online examination checklist and assessment illustration" title="TestHub online examination visual" />
+        <br />
+        <img src="https://img.shields.io/badge/02-EDTECH-7C3AED?style=flat-square" alt="Education technology project" title="Education technology project" />
+      </div>
       <h3>📝 TestHub — Online Examination System</h3>
       <p>Web-based examination platform with separate admin and student workflows for exam creation, question management, assessments, authentication and result viewing.</p>
-      <strong>TECHNOLOGY</strong><br /><br />
+      <strong>TECHNOLOGY</strong>
+      <br /><br />
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Firebase</code>
       <br /><br />
-      <a href="https://github.com/Rehanraza009/TestHub" title="Explore TestHub repository">View repository →</a>
+      <a href="https://github.com/Rehanraza009/TestHub" title="Explore TestHub repository"><img src="https://img.shields.io/badge/VIEW%20PROJECT-Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View TestHub repository" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <div align="center">
+        <img width="100%" src="./assets/more-ipo-visual.svg" alt="IPO market analytics chart illustration" title="IPO Web Application visual" />
+        <br />
+        <img src="https://img.shields.io/badge/03-FINTECH-0284C7?style=flat-square" alt="Financial technology project" title="Financial technology project" />
+      </div>
       <h3>📊 IPO Web Application</h3>
       <p>IPO-focused web application and REST API development contributed to during the Bluestock Fintech internship.</p>
-      <strong>TECHNOLOGY</strong><br /><br />
+      <strong>TECHNOLOGY</strong>
+      <br /><br />
       <code>Python</code> <code>Django</code> <code>PostgreSQL</code>
       <br /><br />
-      <a href="https://github.com/Rehanraza009/ipo-web-app-Final" title="Explore IPO Web Application repository">View repository →</a>
+      <a href="https://github.com/Rehanraza009/ipo-web-app-Final" title="Explore IPO Web Application repository"><img src="https://img.shields.io/badge/VIEW%20PROJECT-Repository-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="View IPO Web Application repository" /></a>
     </td>
     <td width="50%" valign="top">
+      <div align="center">
+        <img width="100%" src="./assets/more-jarvis-visual.svg" alt="Voice assistant waveform illustration" title="JARVIS Desktop Voice Assistant visual" />
+        <br />
+        <img src="https://img.shields.io/badge/04-AI%20%26%20AUTOMATION-B45309?style=flat-square" alt="AI and automation project" title="AI and automation project" />
+      </div>
       <h3>🤖 JARVIS — Desktop Voice Assistant</h3>
       <p>Python desktop assistant with multilingual voice interaction, hands-free conversation modes and Windows application automation.</p>
-      <strong>TECHNOLOGY</strong><br /><br />
+      <strong>TECHNOLOGY</strong>
+      <br /><br />
       <code>Python</code> <code>PySide6</code> <code>Speech Recognition</code> <code>Text-to-Speech</code>
       <br /><br />
-      <a href="https://github.com/Rehanraza009/JARVIS" title="Explore JARVIS repository">View repository →</a>
+      <a href="https://github.com/Rehanraza009/JARVIS" title="Explore JARVIS repository"><img src="https://img.shields.io/badge/VIEW%20PROJECT-Repository-B45309?style=for-the-badge&logo=github&logoColor=white" alt="View JARVIS repository" /></a>
     </td>
   </tr>
 </table>
