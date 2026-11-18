@@ -526,26 +526,33 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/01-AWS%20CLOUD-047857?style=flat-square" alt="AWS Cloud" title="AWS cloud learning" />
-      <h3>☁️ AWS Technical Essentials</h3>
-      <p><strong>Amazon Web Services</strong></p>
-      <p><code>Cloud Fundamentals</code></p>
-      <sub>Issued August 2026</sub>
+    <td width="18%" valign="middle">
+      <img src="https://img.shields.io/badge/01-AWS-047857?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS credential 1" title="Cloud certification" />
     </td>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/02-DATA%20ENGINEERING-047857?style=flat-square" alt="Data engineering" title="Data engineering learning" />
-      <h3>🗄️ Data Engineering on AWS – Foundations</h3>
-      <p><strong>Amazon Web Services</strong></p>
-      <p><code>Data Engineering</code></p>
-      <sub>Issued August 2026</sub>
+    <td width="82%" valign="middle">
+      <strong>☁️ AWS Technical Essentials</strong><br />
+      <sub>Amazon Web Services &nbsp; · &nbsp; Issued August 2026</sub><br />
+      <code>Cloud Fundamentals</code>
     </td>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/03-MACHINE%20LEARNING-B45309?style=flat-square" alt="Machine learning" title="Machine learning learning path" />
-      <h3>🤖 AWS ML Engineer Associate Curriculum Overview</h3>
-      <p><strong>Amazon Web Services</strong></p>
-      <p><code>Machine Learning</code></p>
-      <sub>Issued August 2026</sub>
+  </tr>
+  <tr>
+    <td width="18%" valign="middle">
+      <img src="https://img.shields.io/badge/02-DATA-047857?style=for-the-badge" alt="AWS data engineering credential" title="Data engineering course" />
+    </td>
+    <td width="82%" valign="middle">
+      <strong>🗄️ Data Engineering on AWS – Foundations</strong><br />
+      <sub>Amazon Web Services &nbsp; · &nbsp; Issued August 2026</sub><br />
+      <code>Data Engineering</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="18%" valign="middle">
+      <img src="https://img.shields.io/badge/03-ML-B45309?style=for-the-badge" alt="AWS machine learning curriculum" title="Machine learning curriculum" />
+    </td>
+    <td width="82%" valign="middle">
+      <strong>🤖 AWS ML Engineer Associate Curriculum Overview</strong><br />
+      <sub>Amazon Web Services &nbsp; · &nbsp; Issued August 2026</sub><br />
+      <code>Machine Learning</code>
     </td>
   </tr>
 </table>
@@ -556,9 +563,6 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
 
 <div align="center">
   <img width="100%" src="./assets/iirs-geodata-feature.svg" alt="Featured completed course: AI/ML for Geodata Analysis by IIRS, Indian Space Research Organisation (ISRO)" title="Completed IIRS–ISRO course: AI/ML for Geodata Analysis" />
-</div>
-
-<div align="center">
   <p><strong>AI/ML for Geodata Analysis</strong></p>
   <p>Indian Institute of Remote Sensing (IIRS) · Indian Space Research Organisation (ISRO)</p>
   <img src="https://img.shields.io/badge/COMPLETED-COURSE-047857?style=for-the-badge" alt="Completed course" title="Course completed" />
@@ -572,23 +576,33 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/DATABASE-ORACLE%20ACADEMY-B45309?style=flat-square" alt="Oracle Academy database credential" title="Database learning" />
-      <h3>🗃️ Database Design</h3>
-      <p><strong>Oracle Academy</strong></p>
-      <p>Database concepts and relational data design.</p>
+    <td width="18%" valign="middle">
+      <img src="https://img.shields.io/badge/01-DATABASE-B45309?style=for-the-badge" alt="Database credential" title="Database design" />
     </td>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/DSA-JAVA-047857?style=flat-square" alt="Data structures and algorithms with Java" title="Java DSA learning" />
-      <h3>☕ Alpha DSA with Java</h3>
-      <p><strong>Apna College</strong></p>
-      <p>Data structures, algorithms and problem-solving with Java.</p>
+    <td width="82%" valign="middle">
+      <strong>🗃️ Database Design</strong><br />
+      <sub>Oracle Academy</sub><br />
+      <code>Relational Databases</code>
     </td>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/PROGRAMME-GALGOTIAS-047857?style=flat-square" alt="Galgotias University prerequisite programme" title="University prerequisite programme" />
-      <h3>📊 Data Science using Java</h3>
-      <p><strong>Galgotias University</strong></p>
-      <p>University Prerequisite Programme.</p>
+  </tr>
+  <tr>
+    <td width="18%" valign="middle">
+      <img src="https://img.shields.io/badge/02-DSA-047857?style=for-the-badge" alt="Java DSA credential" title="Data structures and algorithms" />
+    </td>
+    <td width="82%" valign="middle">
+      <strong>☕ Alpha DSA with Java</strong><br />
+      <sub>Apna College</sub><br />
+      <code>Data Structures</code> <code>Algorithms</code> <code>Java</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="18%" valign="middle">
+      <img src="https://img.shields.io/badge/03-DATA%20SCIENCE-047857?style=for-the-badge" alt="Data Science using Java credential" title="University prerequisite programme" />
+    </td>
+    <td width="82%" valign="middle">
+      <strong>📊 Data Science using Java</strong><br />
+      <sub>Galgotias University · University Prerequisite Programme</sub><br />
+      <code>Data Science</code> <code>Java</code>
     </td>
   </tr>
 </table>
@@ -599,13 +613,13 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
 
 <table>
   <tr>
-    <td width="25%" valign="middle">
-      <img src="https://img.shields.io/badge/IDEATION-DESIGN%20THINKING-B45309?style=for-the-badge" alt="Design thinking" title="Design thinking credential" />
+    <td width="18%" valign="middle">
+      <img src="https://img.shields.io/badge/IDEATION-DESIGN-B45309?style=for-the-badge" alt="Design thinking credential" title="Design and innovation" />
     </td>
-    <td width="75%" valign="middle">
-      <h3>💡 Design Thinking</h3>
-      <strong>IIT Madras</strong>
-      <p>Learning focused on human-centred problem framing, ideation and structured innovation.</p>
+    <td width="82%" valign="middle">
+      <strong>💡 Design Thinking</strong><br />
+      <sub>IIT Madras</sub><br />
+      <code>Human-Centred Problem Solving</code> <code>Ideation</code>
     </td>
   </tr>
 </table>
