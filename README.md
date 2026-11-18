@@ -516,8 +516,8 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
 ## 📜 Certifications & Professional Learning
 
 <div align="center">
-  <p><strong>8 LEARNING CREDENTIALS &nbsp; · &nbsp; CLOUD &amp; DATA &nbsp; · &nbsp; GEOAI &nbsp; · &nbsp; SOFTWARE</strong></p>
-  <p>Courses and certifications across cloud computing, geospatial AI, programming, databases and design thinking.</p>
+  <p><strong>8 LEARNING CREDENTIALS</strong></p>
+  <p>Cloud computing · Geospatial AI · Programming · Databases · Design thinking</p>
 </div>
 
 <br />
@@ -526,32 +526,35 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
 
 <table>
   <tr>
-    <td width="18%" valign="middle">
-      <img src="https://img.shields.io/badge/01-AWS-047857?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS credential 1" title="Cloud certification" />
-    </td>
-    <td width="82%" valign="middle">
-      <strong>☁️ AWS Technical Essentials</strong><br />
-      <sub>Amazon Web Services &nbsp; · &nbsp; Issued August 2026</sub><br />
+    <td>
+      <img src="https://img.shields.io/badge/01-AWS%20CLOUD-047857?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS cloud" title="AWS cloud learning" />
+      <br /><br />
+      <strong>☁️ AWS Technical Essentials</strong>
+      <br />
+      <sub>Amazon Web Services · Issued August 2026</sub>
+      <br /><br />
       <code>Cloud Fundamentals</code>
     </td>
   </tr>
   <tr>
-    <td width="18%" valign="middle">
-      <img src="https://img.shields.io/badge/02-DATA-047857?style=for-the-badge" alt="AWS data engineering credential" title="Data engineering course" />
-    </td>
-    <td width="82%" valign="middle">
-      <strong>🗄️ Data Engineering on AWS – Foundations</strong><br />
-      <sub>Amazon Web Services &nbsp; · &nbsp; Issued August 2026</sub><br />
+    <td>
+      <img src="https://img.shields.io/badge/02-DATA%20ENGINEERING-047857?style=flat-square" alt="Data engineering" title="Data engineering course" />
+      <br /><br />
+      <strong>🗄️ Data Engineering on AWS – Foundations</strong>
+      <br />
+      <sub>Amazon Web Services · Issued August 2026</sub>
+      <br /><br />
       <code>Data Engineering</code>
     </td>
   </tr>
   <tr>
-    <td width="18%" valign="middle">
-      <img src="https://img.shields.io/badge/03-ML-B45309?style=for-the-badge" alt="AWS machine learning curriculum" title="Machine learning curriculum" />
-    </td>
-    <td width="82%" valign="middle">
-      <strong>🤖 AWS ML Engineer Associate Curriculum Overview</strong><br />
-      <sub>Amazon Web Services &nbsp; · &nbsp; Issued August 2026</sub><br />
+    <td>
+      <img src="https://img.shields.io/badge/03-MACHINE%20LEARNING-B45309?style=flat-square" alt="Machine learning" title="Machine learning curriculum" />
+      <br /><br />
+      <strong>🤖 AWS ML Engineer Associate Curriculum Overview</strong>
+      <br />
+      <sub>Amazon Web Services · Issued August 2026</sub>
+      <br /><br />
       <code>Machine Learning</code>
     </td>
   </tr>
@@ -561,47 +564,53 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
 
 ### ✦ Featured Course · Remote Sensing &amp; Geospatial AI
 
-<div align="center">
-  <img width="100%" src="./assets/iirs-geodata-feature.svg" alt="Featured completed course: AI/ML for Geodata Analysis by IIRS, Indian Space Research Organisation (ISRO)" title="Completed IIRS–ISRO course: AI/ML for Geodata Analysis" />
-  <p><strong>AI/ML for Geodata Analysis</strong></p>
-  <p>Indian Institute of Remote Sensing (IIRS) · Indian Space Research Organisation (ISRO)</p>
-  <img src="https://img.shields.io/badge/COMPLETED-COURSE-047857?style=for-the-badge" alt="Completed course" title="Course completed" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/FOCUS-REMOTE%20SENSING%20%26%20GEOAI-B45309?style=for-the-badge" alt="Remote sensing and GeoAI" title="Geospatial artificial intelligence and remote sensing" />
-</div>
+<img width="100%" src="./assets/iirs-geodata-feature.svg" alt="Featured completed course: AI/ML for Geodata Analysis by IIRS, Indian Space Research Organisation (ISRO)" title="Completed IIRS–ISRO course: AI/ML for Geodata Analysis" />
+
+**AI/ML for Geodata Analysis**
+
+Indian Institute of Remote Sensing (IIRS) · Indian Space Research Organisation (ISRO)
+
+<img src="https://img.shields.io/badge/COMPLETED-COURSE-047857?style=flat-square" alt="Course completed" title="Course completed" />
+
+<img src="https://img.shields.io/badge/FOCUS-REMOTE%20SENSING%20%26%20GEOAI-B45309?style=flat-square" alt="Remote sensing and GeoAI" title="Geospatial AI and remote sensing" />
 
 <br />
+
+---
 
 ### ✦ Programming &amp; Database Technologies
 
 <table>
   <tr>
-    <td width="18%" valign="middle">
-      <img src="https://img.shields.io/badge/01-DATABASE-B45309?style=for-the-badge" alt="Database credential" title="Database design" />
-    </td>
-    <td width="82%" valign="middle">
-      <strong>🗃️ Database Design</strong><br />
-      <sub>Oracle Academy</sub><br />
+    <td>
+      <img src="https://img.shields.io/badge/01-DATABASE-B45309?style=flat-square" alt="Database credential" title="Database design" />
+      <br /><br />
+      <strong>🗃️ Database Design</strong>
+      <br />
+      <sub>Oracle Academy</sub>
+      <br /><br />
       <code>Relational Databases</code>
     </td>
   </tr>
   <tr>
-    <td width="18%" valign="middle">
-      <img src="https://img.shields.io/badge/02-DSA-047857?style=for-the-badge" alt="Java DSA credential" title="Data structures and algorithms" />
-    </td>
-    <td width="82%" valign="middle">
-      <strong>☕ Alpha DSA with Java</strong><br />
-      <sub>Apna College</sub><br />
+    <td>
+      <img src="https://img.shields.io/badge/02-DSA-047857?style=flat-square" alt="Java DSA credential" title="Data structures and algorithms" />
+      <br /><br />
+      <strong>☕ Alpha DSA with Java</strong>
+      <br />
+      <sub>Apna College</sub>
+      <br /><br />
       <code>Data Structures</code> <code>Algorithms</code> <code>Java</code>
     </td>
   </tr>
   <tr>
-    <td width="18%" valign="middle">
-      <img src="https://img.shields.io/badge/03-DATA%20SCIENCE-047857?style=for-the-badge" alt="Data Science using Java credential" title="University prerequisite programme" />
-    </td>
-    <td width="82%" valign="middle">
-      <strong>📊 Data Science using Java</strong><br />
-      <sub>Galgotias University · University Prerequisite Programme</sub><br />
+    <td>
+      <img src="https://img.shields.io/badge/03-DATA%20SCIENCE-047857?style=flat-square" alt="Data Science using Java credential" title="University prerequisite programme" />
+      <br /><br />
+      <strong>📊 Data Science using Java</strong>
+      <br />
+      <sub>Galgotias University · University Prerequisite Programme</sub>
+      <br /><br />
       <code>Data Science</code> <code>Java</code>
     </td>
   </tr>
@@ -613,12 +622,13 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
 
 <table>
   <tr>
-    <td width="18%" valign="middle">
-      <img src="https://img.shields.io/badge/IDEATION-DESIGN-B45309?style=for-the-badge" alt="Design thinking credential" title="Design and innovation" />
-    </td>
-    <td width="82%" valign="middle">
-      <strong>💡 Design Thinking</strong><br />
-      <sub>IIT Madras</sub><br />
+    <td>
+      <img src="https://img.shields.io/badge/IDEATION-DESIGN-B45309?style=flat-square" alt="Design thinking credential" title="Design and innovation" />
+      <br /><br />
+      <strong>💡 Design Thinking</strong>
+      <br />
+      <sub>IIT Madras</sub>
+      <br /><br />
       <code>Human-Centred Problem Solving</code> <code>Ideation</code>
     </td>
   </tr>
