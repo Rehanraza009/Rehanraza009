@@ -516,100 +516,91 @@ A focused overview of the languages, analytics tools, frameworks, databases and 
 ## 📜 Certifications & Professional Learning
 
 <div align="center">
-  <p><strong>8 LEARNING CREDENTIALS</strong></p>
-  <p>Cloud computing · Geospatial AI · Programming · Databases · Design thinking</p>
+  <p><strong>8 CREDENTIALS · CLOUD · DATA · GEOAI · PROGRAMMING · DESIGN</strong></p>
+  <p>A curated learning journey across cloud platforms, geospatial intelligence, software development and problem-solving.</p>
 </div>
 
 <br />
 
-### ✦ Cloud Computing &amp; Data Engineering
+### ☁️ Cloud & Data Engineering
 
 <table>
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/01-AWS%20CLOUD-047857?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS cloud" title="AWS cloud learning" />
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/AWS-01%20%2F%2003-1D4ED8?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS credential 1 of 3" />
+      <h3>☁️ AWS Technical Essentials</h3>
+      <sub><strong>Amazon Web Services</strong> · August 2026</sub>
       <br /><br />
-      <strong>☁️ AWS Technical Essentials</strong>
-      <br />
-      <sub>Amazon Web Services · Issued August 2026</sub>
+      <code>Cloud Fundamentals</code> <code>AWS Services</code>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/AWS-02%20%2F%2003-1D4ED8?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS credential 2 of 3" />
+      <h3>🗄️ Data Engineering on AWS – Foundations</h3>
+      <sub><strong>Amazon Web Services</strong> · August 2026</sub>
       <br /><br />
-      <code>Cloud Fundamentals</code>
+      <code>Data Engineering</code> <code>Cloud Data</code>
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/02-DATA%20ENGINEERING-047857?style=flat-square" alt="Data engineering" title="Data engineering course" />
+    <td colspan="2" valign="top">
+      <img src="https://img.shields.io/badge/AWS-03%20%2F%2003-1D4ED8?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS credential 3 of 3" />
+      <h3>🤖 AWS ML Engineer Associate – Curriculum Overview</h3>
+      <sub><strong>Amazon Web Services</strong> · August 2026</sub>
       <br /><br />
-      <strong>🗄️ Data Engineering on AWS – Foundations</strong>
-      <br />
-      <sub>Amazon Web Services · Issued August 2026</sub>
-      <br /><br />
-      <code>Data Engineering</code>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/03-MACHINE%20LEARNING-B45309?style=flat-square" alt="Machine learning" title="Machine learning curriculum" />
-      <br /><br />
-      <strong>🤖 AWS ML Engineer Associate Curriculum Overview</strong>
-      <br />
-      <sub>Amazon Web Services · Issued August 2026</sub>
-      <br /><br />
-      <code>Machine Learning</code>
+      <code>Machine Learning</code> <code>ML Engineering</code>
     </td>
   </tr>
 </table>
 
 <br />
 
-### ✦ Featured Course · Remote Sensing &amp; Geospatial AI
+### 🛰️ Featured Learning · Geospatial AI
 
-<img width="100%" src="./assets/iirs-geodata-feature.svg" alt="Featured completed course: AI/ML for Geodata Analysis by IIRS, Indian Space Research Organisation (ISRO)" title="Completed IIRS–ISRO course: AI/ML for Geodata Analysis" />
-
-**AI/ML for Geodata Analysis**
-
-Indian Institute of Remote Sensing (IIRS) · Indian Space Research Organisation (ISRO)
-
-<img src="https://img.shields.io/badge/COMPLETED-COURSE-047857?style=flat-square" alt="Course completed" title="Course completed" />
-
-<img src="https://img.shields.io/badge/FOCUS-REMOTE%20SENSING%20%26%20GEOAI-B45309?style=flat-square" alt="Remote sensing and GeoAI" title="Geospatial AI and remote sensing" />
-
-<br />
-
----
-
-### ✦ Programming &amp; Database Technologies
+<img width="100%" src="./assets/iirs-geodata-feature.svg" alt="AI/ML for Geodata Analysis — completed course from IIRS, ISRO" title="Featured IIRS–ISRO geospatial AI course" />
 
 <table>
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/01-DATABASE-B45309?style=flat-square" alt="Database credential" title="Database design" />
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/FEATURED-COURSE-047857?style=for-the-badge" alt="Featured completed course" />
+      <h3>AI/ML for Geodata Analysis</h3>
+      <strong>Indian Institute of Remote Sensing (IIRS)</strong><br />
+      <sub>Indian Space Research Organisation (ISRO)</sub>
       <br /><br />
-      <strong>🗃️ Database Design</strong>
-      <br />
-      <sub>Oracle Academy</sub>
+      <img src="https://img.shields.io/badge/STATUS-COMPLETED-047857?style=flat-square" alt="Completed" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/FOCUS-REMOTE%20SENSING%20%26%20GEOAI-B45309?style=flat-square" alt="Remote sensing and geospatial AI" />
       <br /><br />
-      <code>Relational Databases</code>
+      <code>Geospatial AI</code> <code>Remote Sensing</code> <code>Machine Learning</code>
     </td>
   </tr>
+</table>
+
+<br />
+
+### 💻 Programming & Database
+
+<table>
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/02-DSA-047857?style=flat-square" alt="Java DSA credential" title="Data structures and algorithms" />
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/DATABASE-ORACLE- B45309?style=flat-square" alt="Oracle Academy database credential" />
+      <h3>🗃️ Database Design</h3>
+      <sub><strong>Oracle Academy</strong></sub>
       <br /><br />
-      <strong>☕ Alpha DSA with Java</strong>
-      <br />
-      <sub>Apna College</sub>
+      <code>Relational Databases</code> <code>Database Design</code>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/DSA-JAVA-047857?style=flat-square" alt="Java DSA credential" />
+      <h3>☕ Alpha DSA with Java</h3>
+      <sub><strong>Apna College</strong></sub>
       <br /><br />
       <code>Data Structures</code> <code>Algorithms</code> <code>Java</code>
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/03-DATA%20SCIENCE-047857?style=flat-square" alt="Data Science using Java credential" title="University prerequisite programme" />
-      <br /><br />
-      <strong>📊 Data Science using Java</strong>
-      <br />
-      <sub>Galgotias University · University Prerequisite Programme</sub>
+    <td colspan="2" valign="top">
+      <img src="https://img.shields.io/badge/UNIVERSITY-PROGRAMME-047857?style=flat-square" alt="University prerequisite programme" />
+      <h3>📊 Data Science using Java</h3>
+      <sub><strong>Galgotias University</strong> · University Prerequisite Programme</sub>
       <br /><br />
       <code>Data Science</code> <code>Java</code>
     </td>
@@ -618,16 +609,14 @@ Indian Institute of Remote Sensing (IIRS) · Indian Space Research Organisation 
 
 <br />
 
-### ✦ Design &amp; Innovation
+### 💡 Design & Innovation
 
 <table>
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/IDEATION-DESIGN-B45309?style=flat-square" alt="Design thinking credential" title="Design and innovation" />
-      <br /><br />
-      <strong>💡 Design Thinking</strong>
-      <br />
-      <sub>IIT Madras</sub>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/INNOVATION-IIT%20MADRAS-B45309?style=flat-square" alt="IIT Madras design thinking credential" />
+      <h3>Design Thinking</h3>
+      <sub><strong>IIT Madras</strong></sub>
       <br /><br />
       <code>Human-Centred Problem Solving</code> <code>Ideation</code>
     </td>
@@ -637,8 +626,9 @@ Indian Institute of Remote Sensing (IIRS) · Indian Space Research Organisation 
 <br />
 
 <div align="center">
+  <p><strong>KEEP LEARNING. KEEP BUILDING.</strong></p>
   <a href="https://github.com/Rehanraza009/My-Certification" title="Browse the certificate repository">
-    <img src="https://img.shields.io/badge/EXPLORE-ALL%20CERTIFICATES-047857?style=for-the-badge&logo=github&logoColor=white" alt="Browse all certificates and learning records" />
+    <img src="https://img.shields.io/badge/VIEW%20ALL-8%20LEARNING%20CREDENTIALS-047857?style=for-the-badge&logo=github&logoColor=white" alt="Browse all certificates and learning records" />
   </a>
 </div>
 
