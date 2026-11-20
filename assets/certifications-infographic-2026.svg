@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+<title id="title">Certifications and Professional Learning — Rehan Raza</title>
+<desc id="desc">Eight credentials across cloud and data engineering, geospatial AI, programming and database design, and design thinking.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050b1b"/><stop offset=".55" stop-color="#10152e"/><stop offset="1" stop-color="#080d20"/></linearGradient>
+ <linearGradient id="cyan" x1="0" x2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+ <linearGradient id="green" x1="0" x2="1"><stop stop-color="#34d399"/><stop offset="1" stop-color="#06b6d4"/></linearGradient>
+ <linearGradient id="purple" x1="0" x2="1"><stop stop-color="#c084fc"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+ <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#fbbf24"/><stop offset="1" stop-color="#fb923c"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="760" rx="28" fill="url(#bg)"/>
+<g opacity=".22" stroke="#2563eb" fill="none"><path d="M0 120H1200M0 640H1200M60 0V760M1140 0V760"/><path d="M0 180L180 0M1020 760L1200 580M0 590L590 0M610 760L1200 170"/></g>
+<circle cx="1090" cy="90" r="95" fill="#4338ca" opacity=".12"/><circle cx="80" cy="680" r="130" fill="#0891b2" opacity=".10"/>
+<text x="54" y="82" fill="#f8fafc" font-family="Arial,sans-serif" font-size="43" font-weight="700">Certifications &amp; <tspan fill="#a78bfa">Professional Learning</tspan></text>
+<text x="57" y="119" fill="#a5b4fc" font-family="Arial,sans-serif" font-size="16" letter-spacing="4">8 CREDENTIALS  •  4 LEARNING DOMAINS</text>
+<text x="1140" y="78" text-anchor="end" fill="#67e8f9" font-family="Arial,sans-serif" font-size="17" font-style="italic">LEARN • BUILD • GROW</text>
+<!-- cloud -->
+<rect x="35" y="155" width="1130" height="172" rx="22" fill="#07172d" stroke="#0ea5e9" stroke-width="2"/>
+<text x="62" y="194" fill="#67e8f9" font-family="Arial,sans-serif" font-size="24" font-weight="700">☁  CLOUD &amp; DATA ENGINEERING</text>
+<g font-family="Arial,sans-serif">
+ <rect x="58" y="212" width="340" height="91" rx="13" fill="#0b2340" stroke="#0ea5e9"/>
+ <text x="80" y="248" fill="#fff" font-size="20" font-weight="700">AWS Technical Essentials</text><text x="80" y="277" fill="#94a3b8" font-size="15">Amazon Web Services • Aug 2026</text>
+ <rect x="430" y="212" width="340" height="91" rx="13" fill="#0b2340" stroke="#0ea5e9"/>
+ <text x="452" y="244" fill="#fff" font-size="19" font-weight="700">Data Engineering on AWS</text><text x="452" y="269" fill="#fff" font-size="18">Foundations</text><text x="452" y="290" fill="#94a3b8" font-size="13">AWS • Aug 2026</text>
+ <rect x="802" y="212" width="340" height="91" rx="13" fill="#0b2340" stroke="#0ea5e9"/>
+ <text x="824" y="242" fill="#fff" font-size="18" font-weight="700">AWS ML Engineer Associate</text><text x="824" y="266" fill="#fff" font-size="16">Curriculum Overview</text><text x="824" y="290" fill="#94a3b8" font-size="13">AWS • Aug 2026</text>
+</g>
+<!-- ISRO -->
+<rect x="35" y="350" width="1130" height="150" rx="22" fill="#05231f" stroke="#10b981" stroke-width="2"/>
+<text x="63" y="389" fill="#6ee7b7" font-family="Arial,sans-serif" font-size="24" font-weight="700">FEATURED • GEOSPATIAL AI</text>
+<rect x="947" y="366" width="190" height="34" rx="17" fill="#065f46" stroke="#34d399"/>
+<text x="1042" y="389" text-anchor="middle" fill="#d1fae5" font-family="Arial,sans-serif" font-size="15" font-weight="700">✓ COMPLETED</text>
+<text x="64" y="440" fill="#f8fafc" font-family="Arial,sans-serif" font-size="30" font-weight="700">AI/ML for Geodata Analysis</text>
+<text x="64" y="472" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="18">Indian Institute of Remote Sensing (IIRS) • ISRO</text>
+<text x="1128" y="445" text-anchor="end" fill="#6ee7b7" font-family="Arial,sans-serif" font-size="16">REMOTE SENSING</text>
+<text x="1128" y="472" text-anchor="end" fill="#6ee7b7" font-family="Arial,sans-serif" font-size="16">GEOAI • MACHINE LEARNING</text>
+<!-- lower panels -->
+<rect x="35" y="523" width="550" height="170" rx="22" fill="#17102e" stroke="#a855f7" stroke-width="2"/>
+<text x="62" y="564" fill="#d8b4fe" font-family="Arial,sans-serif" font-size="23" font-weight="700">⌘  PROGRAMMING &amp; DATABASE</text>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+ <text x="130" y="615" fill="#fff" font-size="18" font-weight="700">Oracle Academy</text><text x="130" y="642" fill="#c4b5fd" font-size="15">Database Design</text>
+ <path d="M220 585V668" stroke="#6b21a8"/>
+ <text x="310" y="615" fill="#fff" font-size="18" font-weight="700">Apna College</text><text x="310" y="642" fill="#c4b5fd" font-size="15">Alpha DSA with Java</text>
+ <path d="M405 585V668" stroke="#6b21a8"/>
+ <text x="495" y="615" fill="#fff" font-size="17" font-weight="700">Galgotias University</text><text x="495" y="642" fill="#c4b5fd" font-size="14">Data Science using Java</text>
+</g>
+<rect x="615" y="523" width="550" height="170" rx="22" fill="#241a08" stroke="#f59e0b" stroke-width="2"/>
+<text x="642" y="564" fill="#fcd34d" font-family="Arial,sans-serif" font-size="23" font-weight="700">✦  DESIGN &amp; INNOVATION</text>
+<circle cx="760" cy="625" r="37" fill="#422006" stroke="#fbbf24" stroke-width="2" filter="url(#glow)"/>
+<path d="M744 625h32M760 609v32" stroke="#fde68a" stroke-width="4" stroke-linecap="round"/>
+<text x="820" y="619" fill="#fff" font-family="Arial,sans-serif" font-size="23" font-weight="700">IIT Madras</text>
+<text x="820" y="650" fill="#fde68a" font-family="Arial,sans-serif" font-size="19">Design Thinking</text>
+<text x="600" y="733" text-anchor="middle" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="16" letter-spacing="3">CONTINUOUS LEARNING • PRACTICAL APPLICATION • LIFELONG GROWTH</text>
+</svg>
