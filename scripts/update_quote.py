@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
-"""Generate a GitHub-profile footer quote banner.
-
-The quote changes every six-hour UTC slot. GitHub Actions commits the
-updated SVG so the profile README always displays the latest generated quote.
-"""
+"""Rotate the profile quote and bust GitHub's cached README image URL."""
 from datetime import datetime, timezone
 from html import escape
 from pathlib import Path
+import re
+
+ROOT = Path(__file__).resolve().parents[1]
+README = ROOT / "README.md"
+SVG = ROOT / "assets" / "rotating-quote.svg"
 
 QUOTES = [
     ("Build with curiosity. Learn without limits.", "LEARN • BUILD • GROW"),
@@ -23,22 +24,14 @@ QUOTES = [
     ("Make every experiment a step toward something useful.", "TEST • DISCOVER • CREATE"),
 ]
 
-# Stable within each six-hour period; rotates automatically over time.
+# One quote per six-hour UTC window.
 slot = int(datetime.now(timezone.utc).timestamp() // (6 * 60 * 60))
 quote, label = QUOTES[slot % len(QUOTES)]
 
 svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="{escape(quote, quote=True)}">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#071810"/>
-      <stop offset="0.55" stop-color="#064E3B"/>
-      <stop offset="1" stop-color="#047857"/>
-    </linearGradient>
-    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#34D399" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#6EE7B7" stop-opacity=".8"/>
-      <stop offset="1" stop-color="#34D399" stop-opacity="0"/>
-    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#071810"/><stop offset=".55" stop-color="#064E3B"/><stop offset="1" stop-color="#047857"/></linearGradient>
+    <linearGradient id="glow"><stop stop-color="#34D399" stop-opacity="0"/><stop offset=".5" stop-color="#6EE7B7" stop-opacity=".8"/><stop offset="1" stop-color="#34D399" stop-opacity="0"/></linearGradient>
     <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
   </defs>
   <rect width="1200" height="190" rx="22" fill="url(#bg)"/>
@@ -52,8 +45,14 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" view
   <rect x="90" y="173" width="1020" height="2" rx="1" fill="url(#glow)"/>
 </svg>
 '''
+SVG.parent.mkdir(parents=True, exist_ok=True)
+SVG.write_text(svg, encoding="utf-8")
 
-out = Path("assets/rotating-quote.svg")
-out.parent.mkdir(parents=True, exist_ok=True)
-out.write_text(svg, encoding="utf-8")
-print(f"Updated {out}: {quote}")
+# Change the image URL on every quote slot to defeat GitHub's image proxy cache.
+readme = README.read_text(encoding="utf-8")
+pattern = r'((?:\./)?assets/rotating-quote\.svg)(?:\?v=[^" )]+)?'
+updated, count = re.subn(pattern, rf'\1?v={slot}', readme)
+if count != 1:
+    raise SystemExit(f"Expected exactly one rotating quote image in README, found {count}")
+README.write_text(updated, encoding="utf-8")
+print(f"Quote slot {slot}: {quote}")
