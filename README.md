@@ -36,26 +36,60 @@
 
 ---
 
-<a id="about" title="Open link"></a>
+<a id="about" title="About Rehan Raza"></a>
 
 ## 👋 A little about me
 
-I'm **Rehan Raza**, a **B.Tech Computer Science and Engineering student specialising in Data Science** at **Galgotias University**, with an expected graduation year of **2027**.
+<div align="center">
+  <h3>Hey, I'm Rehan Raza 👋</h3>
+  <p><strong>Software Engineer in the making · Data Science · AI/ML</strong></p>
+  <p>
+    I enjoy turning ideas and data into practical products — from building backend APIs
+    and intelligent applications to exploring machine learning and analytics.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/FOCUS-Software%20Development-0F766E?style=for-the-badge" alt="Software Development" title="Software development and engineering" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/FOCUS-Data%20%26%20AI-2563EB?style=for-the-badge" alt="Data and AI" title="Data science, analytics and artificial intelligence" />
+    &nbsp;
+    <img src="https://img.shields.io/badge-BASED%20IN-India-B45309?style=for-the-badge" alt="Based in India" title="Based in India" />
+  </p>
+</div>
 
-I enjoy working where **data, AI and software engineering** meet. I use Python, SQL, Java and modern development technologies to explore datasets, build APIs, experiment with machine-learning approaches and develop applications that address practical problems.
-
-My goal is to turn technical knowledge into reliable, useful solutions while continuing to grow as an engineer and analyst.
-
-<br />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Education</h3>
+      <strong>B.Tech — Computer Science &amp; Engineering</strong><br />
+      Data Science specialization<br />
+      Galgotias University<br />
+      <sub>Expected graduation: 2027</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧭 What I'm interested in</h3>
+      <ul>
+        <li>Data analytics and data science</li>
+        <li>Machine learning and AI-powered products</li>
+        <li>Backend and full-stack development</li>
+        <li>Building useful, real-world solutions</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <strong>EDUCATION</strong><br />
-  B.Tech · Computer Science & Engineering (Data Science)<br />
-  Galgotias University · Expected 2027
-  <br /><br />
- 
-  <strong>CAREER INTERESTS</strong><br />
-  Data Analyst · Data Scientist · AI/ML Engineer · Software Developer
+  <h3>🛠️ My everyday toolkit</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" title="Python" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" title="Java" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" title="SQL" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" title="Django" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" title="FastAPI" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" title="Pandas" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" title="NumPy" />
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" title="Power BI" />
+  </p>
+  <p><em>Curious by nature. Always learning, building and improving.</em></p>
 </div>
 
 <br />
