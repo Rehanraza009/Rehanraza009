@@ -597,5 +597,5 @@ I'm open to connecting with professionals, developers and teams working in **dat
 
   <br /><br />
   <h3>Learn with curiosity. Build with purpose. Improve every day.</h3>
-  <img width="100%" src="./assets/rotating-quote.svg?v=83125" alt="Automatically rotating developer quote banner" title="A new developer quote, refreshed automatically every six hours" />
+  <img width="100%" src="./assets/rotating-quote.svg?v=83127" alt="Automatically rotating developer quote banner" title="A new developer quote, refreshed automatically every six hours" />
 </div>
