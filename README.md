@@ -40,30 +40,34 @@
 
 ## 👋 A little about me
 
-Hi, I'm **Rehan Raza** — a Computer Science &amp; Engineering student specialising in **Data Science** at **Galgotias University**.
+I'm **Rehan Raza**, a **Computer Science & Engineering undergraduate specialising in Data Science** at **Galgotias University**.
 
-I enjoy building practical software and exploring how data and AI can solve real-world problems. My work spans backend development, data analytics and machine-learning projects.
+I’m interested in building useful software at the intersection of **software engineering, data and AI**. I enjoy developing applications, working with backend systems, analysing data and exploring machine-learning solutions to practical problems.
+
+Through internships, virtual programmes and hands-on projects, I've gained experience turning ideas into working solutions—and I’m continuing to grow as an engineer through consistent learning and building.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>🎓 EDUCATION</strong><br /><br />
-      **B.Tech · Computer Science &amp; Engineering**<br />
-      Data Science specialization<br />
+      <h3>🎓 EDUCATION</h3>
+      <strong>B.Tech · Computer Science &amp; Engineering</strong><br />
+      Specialisation: Data Science<br />
       Galgotias University<br />
-      <sub>Expected graduation: 2027</sub>
+      <sub>Expected graduation: 2028</sub>
     </td>
     <td width="50%" valign="top">
-      <strong>🎯 AREAS OF INTEREST</strong><br /><br />
-      • Data Analytics &amp; Data Science<br />
-      • Artificial Intelligence &amp; Machine Learning<br />
-      • Software &amp; Backend Development<br />
-      • Building practical, user-focused products
+      <h3>🎯 PROFESSIONAL INTERESTS</h3>
+      <strong>Software Engineering</strong><br />
+      Backend &amp; Web Development<br /><br />
+      <strong>Data &amp; Artificial Intelligence</strong><br />
+      Data Analytics · Machine Learning · AI-powered applications
     </td>
   </tr>
 </table>
 
-<p align="center"><em>Learn continuously. Build thoughtfully. Create meaningful impact.</em></p>
+<p align="center">
+  <strong>BUILD WITH PURPOSE · LEARN CONTINUOUSLY · KEEP IMPROVING</strong>
+</p>
 
 <br />
 
