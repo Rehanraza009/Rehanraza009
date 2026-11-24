@@ -53,7 +53,7 @@ Through internships, virtual programmes and hands-on projects, I've gained exper
       <strong>B.Tech · Computer Science &amp; Engineering</strong><br />
       Specialisation: Data Science<br />
       Galgotias University<br />
-      <sub>Expected graduation: 2028</sub>
+      <sub>Expected graduation: 2027</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🎯 PROFESSIONAL INTERESTS</h3>
