@@ -38,38 +38,35 @@
 
 <a id="about" title="About Rehan Raza"></a>
 
-## 👋 A little about me
+## 👋 About Me
 
-I'm **Rehan Raza**, a **Computer Science & Engineering undergraduate specialising in Data Science** at **Galgotias University**.
+I'm **Rehan Raza**, a Computer Science & Engineering undergraduate specialising in **Data Science** at **Galgotias University**, graduating in **2027**.
 
-I’m interested in building useful software at the intersection of **software engineering, data and AI**. I enjoy developing applications, working with backend systems, analysing data and exploring machine-learning solutions to practical problems.
+I enjoy turning ideas into practical, user-focused products. My interests span **software development, web technologies, data analytics and AI/ML**—with a focus on building applications that are useful, reliable and easy to use.
 
-Through internships, virtual programmes and hands-on projects, I've gained experience turning ideas into working solutions—and I’m continuing to grow as an engineer through consistent learning and building.
+Currently, I'm working as a **Data Analysis Intern at VisioTechon Services**. I've also gained hands-on experience through a software development internship and virtual internship programmes in AI/ML and AWS data engineering.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 EDUCATION</h3>
-      <strong>B.Tech · Computer Science &amp; Engineering</strong><br />
-      Specialisation: Data Science<br />
-      Galgotias University<br />
-      <sub>Expected graduation: 2027</sub>
+      <h3>WHAT I WORK ON</h3>
+      • Web &amp; backend development<br />
+      • Data analysis and visualisation<br />
+      • AI/ML-powered applications<br />
+      • Building and improving real-world projects
     </td>
     <td width="50%" valign="top">
-      <h3>🎯 PROFESSIONAL INTERESTS</h3>
-      <strong>Software Engineering</strong><br />
-      Backend &amp; Web Development<br /><br />
-      <strong>Data &amp; Artificial Intelligence</strong><br />
-      Data Analytics · Machine Learning · AI-powered applications
+      <h3>BEYOND THE CODE</h3>
+      • Google Gemini Ambassador<br />
+      • Smart India Hackathon 2026 — Top 50 selection from 150<br />
+      • Interested in continuous learning and collaboration
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <strong>BUILD WITH PURPOSE · LEARN CONTINUOUSLY · KEEP IMPROVING</strong>
+  <em>Learn continuously. Build thoughtfully. Make technology matter.</em>
 </p>
-
-<br />
 
 ---
 
